@@ -1,5 +1,6 @@
 import type { NextPage } from 'next'
 import { Fragment } from 'react'
+import Head from 'next/head'
 import Image from 'next/image'
 
 import styles from './HomePage.module.css'
@@ -16,9 +17,17 @@ import personalImage from '../../images/personal.jpg'
 const HomePage: NextPage = () => {
   return (
     <Fragment>
-      {/* header */}
+      <Head>
+        <title>kenttonino</title>
+        <link rel="icon" href='/head.ico'></link>
+        <meta
+          name='viewport'
+          content='width=device-width, initial-scale=1, maximum-scale=1'
+        />
+      </Head>
+
+      {/* Header */}
       <div className={`${styles.header}`}>
-        {/* Profile */}
         <div className={`${styles.profile}`}>
           <div className={`${styles.profileImageContainer}`}>
             <Image src={profileImage} className={`${styles.profileImage}`} />
@@ -41,7 +50,6 @@ const HomePage: NextPage = () => {
             </a>
           </div>
         </div>
-        {/* Navbar */}
         <div className={`${styles.navbar}`}>
           <ul className={`${styles.navbarUl}`}>
             <li className={`${styles.navbarLi}`}>
