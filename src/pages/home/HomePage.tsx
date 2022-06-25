@@ -13,6 +13,7 @@ import skillsImage from '../../images/skills.png'
 import resumeImage from '../../images/resume.png'
 import projectsImage from '../../images/projects.png'
 import personalImage from '../../images/personal.jpg'
+import { SkillsFirstColumn, SkillsSecondColumn } from '../../const/skills'
 
 const HomePage: NextPage = () => {
   return (
@@ -137,6 +138,57 @@ const HomePage: NextPage = () => {
                 <span>Current Address</span> | Sitio Orel, Brgy. Banilad,
                 Mandaue City, Cebu
               </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Skills */}
+      <div id='skills' className={`${styles.skills}`}>
+        <div className={`${styles.skillsContainer}`}>
+          <div className={`${styles.skillsContainerHeader}`}>
+            <h1>Skills</h1>
+          </div>
+          <div className={`${styles.skillsContainerContent}`}>
+            <div className={`${styles.skillsContent}`}>
+              <div className={`${styles.skillProgress}`}>
+                {SkillsFirstColumn.map((skill: any) => (
+                  <div className={`${styles.skillsProgressMap}`} key={skill.id}>
+                    <span className={`${styles.skillName}`}>
+                      {skill.name}{' '}
+                      <i className={`${styles.skillNameValue}`}>
+                        {skill.progress}
+                      </i>
+                    </span>
+                    <div className={`${styles.skillProgressBarContainer}`}>
+                      <div
+                        className={`${styles.skillProgressBar}`}
+                        style={{ width: `${skill.progress}` }}
+                      ></div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <div className={`${styles.skillsContent}`}>
+              <div className={`${styles.skillProgress}`}>
+                {SkillsSecondColumn.map((skill: any) => (
+                  <div className={`${styles.skillsProgressMap}`} key={skill.id}>
+                    <span className={`${styles.skillName}`}>
+                      {skill.name}{' '}
+                      <i className={`${styles.skillNameValue}`}>
+                        {skill.progress}
+                      </i>
+                    </span>
+                    <div className={`${styles.skillProgressBarContainer}`}>
+                      <div
+                        className={`${styles.skillProgressBar}`}
+                        style={{ width: `${skill.progress}` }}
+                      ></div>
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>
