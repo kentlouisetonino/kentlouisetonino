@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint \"./**/*.{ts,tsx,js,jsx}\"",
-    "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\""
+    "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx,css}\""
   },
   "dependencies": {
     "@types/prettier": "^2.6.3",
