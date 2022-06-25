@@ -42,6 +42,7 @@
 .socialLinksContainer {
   text-align: center;
   margin-top: 1rem !important;
+  filter: grayscale(90%);
 }
 
 .socialLinks {
@@ -90,6 +91,7 @@
   display: flex;
   align-items: center;
   margin-right: 12px;
+  filter: grayscale(90%);
 }
 
 .hero {
@@ -150,7 +152,7 @@
 .aboutPersonalImage {
   width: 40%;
   height: 40%;
-  filter: grayscale(80%);
+  filter: grayscale(90%);
   margin-right: 20px;
 }
 
