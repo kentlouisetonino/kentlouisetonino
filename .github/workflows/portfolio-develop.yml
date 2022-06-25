@@ -61,4 +61,4 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git diff-index --quiet HEAD || (git commit -a -m'[Bot] Update: Apply prettier formatter' && git push -f) || echo "No changes to commit"
+          git diff-index --quiet HEAD || (git commit -a -m'[Bot] update: apply changes' && git push -f) || echo "No changes to commit"

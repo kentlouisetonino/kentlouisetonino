@@ -1,0 +1,94 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300px;
+  z-index: 9997;
+  transition: all 0.5s;
+  padding: 0 15px;
+  background: black;
+  overflow-y: auto;
+  border-right: 1px solid white;
+  height: 100vh;
+}
+
+.profile {
+  display: block;
+  text-align: center;
+}
+
+.profileImageContainer {
+  margin: 15px auto;
+  display: block;
+  width: 120px;
+  height: 120px;
+  border: 8px solid #2c2f3f;
+  border-radius: 50% !important;
+}
+
+.profileImage {
+  border-radius: 50% !important;
+}
+
+.profileName {
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  text-align-last: center;
+  color: white;
+  text-decoration: none;
+}
+
+.socialLinksContainer {
+  text-align: center;
+  margin-top: 1rem !important;
+}
+
+.socialLinks {
+  margin: 5px;
+}
+
+.navbar {
+  padding: 30px 0 0 0;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbarUl {
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding-left: 0;
+  list-style: none;
+  display: block;
+}
+
+.navbarLi {
+  color: white;
+  position: relative;
+  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: list-item;
+  display: flex;
+  justify-items: center;
+  text-align: -webkit-match-parent;
+}
+
+.navbarAnchor {
+  display: flex;
+  align-items: center;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.navbarImage {
+  display: flex;
+  align-items: center;
+  margin-right: 12px;
+}
