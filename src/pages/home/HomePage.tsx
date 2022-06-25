@@ -19,7 +19,7 @@ const HomePage: NextPage = () => {
     <Fragment>
       <Head>
         <title>kenttonino</title>
-        <link rel="icon" href='/head.ico'></link>
+        <link rel='icon' href='/head.ico'></link>
         <meta
           name='viewport'
           content='width=device-width, initial-scale=1, maximum-scale=1'
@@ -146,4 +146,3 @@ const HomePage: NextPage = () => {
 }
 
 export default HomePage
-
