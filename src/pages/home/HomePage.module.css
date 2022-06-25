@@ -211,7 +211,7 @@
   font-size: 0.75rem;
   padding-right: 20px;
   overflow: auto;
-  height: 80%;
+  height: 70%;
 }
 
 .skillProgress::-webkit-scrollbar {
