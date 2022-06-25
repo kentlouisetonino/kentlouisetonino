@@ -31,7 +31,6 @@
 }
 
 .profileName {
-  font-size: 25px;
   margin: 0;
   padding: 0;
   font-weight: 700;
@@ -91,4 +90,77 @@
   display: flex;
   align-items: center;
   margin-right: 12px;
+}
+
+.hero {
+  width: auto;
+  height: 100vh;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 60px 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  margin-left: 300px;
+}
+
+.heroHeader {
+  color: white;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 56px;
+}
+
+.about {
+  height: 100vh;
+  width: auto;
+  margin-left: 300px;
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.aboutContainer {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.aboutTitle {
+  padding-bottom: 30px;
+}
+
+.aboutHeader {
+  color: white;
+  border-bottom: 1px solid white;
+  width: min-content;
+  padding-bottom: 2px;
+}
+
+.aboutParagraph {
+  line-height: 1.6;
+}
+
+.aboutPersonalContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.aboutPersonalImage {
+  width: 40%;
+  height: 40%;
+  filter: grayscale(80%);
+  margin-right: 20px;
+}
+
+.aboutPersonalHeader {
+  margin-top: 0;
+  border-bottom: 1px solid white;
+  padding-bottom: 2px;
+  width: max-content;
+}
+
+.aboutPersonalInfo span {
+  font-weight: bold;
 }
