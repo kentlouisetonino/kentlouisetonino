@@ -10,8 +10,7 @@ import githubImage from '../../images/github.png'
 import homeImage from '../../images/home.png'
 import userImage from '../../images/user.png'
 import skillsImage from '../../images/skills.png'
-import resumeImage from '../../images/resume.png'
-import projectsImage from '../../images/projects.png'
+import educationImage from '../../images/education.png'
 import personalImage from '../../images/personal.jpg'
 import { SkillsFirstColumn, SkillsSecondColumn } from '../../const/skills'
 
@@ -78,19 +77,11 @@ const HomePage: NextPage = () => {
               </a>
             </li>
             <li className={`${styles.navbarLi}`}>
-              <a className={`${styles.navbarAnchor}`} href='/#resume'>
+              <a className={`${styles.navbarAnchor}`} href='/#education'>
                 <span className={`${styles.navbarImage}`}>
-                  <Image src={resumeImage} />
+                  <Image src={educationImage} />
                 </span>
-                <span>Resume</span>
-              </a>
-            </li>
-            <li className={`${styles.navbarLi}`}>
-              <a className={`${styles.navbarAnchor}`} href='/#projects'>
-                <span className={`${styles.navbarImage}`}>
-                  <Image src={projectsImage} />
-                </span>
-                <span>Projects</span>
+                <span>Education</span>
               </a>
             </li>
           </ul>
@@ -190,6 +181,15 @@ const HomePage: NextPage = () => {
                 ))}
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Education */}
+      <div id='education' className={`${styles.education}`}>
+        <div className={`${styles.educationContainer}`}>
+          <div className={`${styles.educationContainerTitle}`}>
+            <h1>Education</h1>
           </div>
         </div>
       </div>
