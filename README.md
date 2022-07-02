@@ -4,5 +4,5 @@ Skilled in JavaScript, TypeScript, NodeJS, Python, RestAPI, GraphQL, PostgreSQL,
 GIthub, Github Actions, Docker, Linux. Also a Developer wlling to learn old and new technologies
 and have a strong "Get It Done" and "Can Do" mindset.
 
-# Website
+# Link
 - https://kenttonino.vercel.app/
