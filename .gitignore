@@ -35,7 +35,4 @@ yarn-error.log*
 *.tsbuildinfo
 
 # Environments
-.env.local
-
-# Github
-token.txt
+.env
