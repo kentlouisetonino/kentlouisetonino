@@ -1,5 +1,4 @@
 # NodeJS Developer
-Experienced Software Developer with demonstrated history of working in NodeJS Application.
-Skilled in JavaScript, TypeScript, NodeJS, Python, RestAPI, GraphQL, PostgreSQL, MySQL, Bash, Git,
-GIthub, Github Actions, Docker, Linux. Also a Developer wlling to learn old and new technologies
-and have a strong "Get It Done" and "Can Do" mindset. Have strong interest in Backend and DevOps.
+Experienced Software Developer with demonstrated history of working in API and Backend Development.
+Skilled in NodeJS, Python, RestAPI, GraphQL, PostgreSQL, MySQL, Bash, Git, Github, Github Actions,
+Docker, and Linux. Also a developer willing to learn old and new technologies.
