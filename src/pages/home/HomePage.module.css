@@ -12,6 +12,7 @@
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   text-align: center;
+  line-height: 300%;
 }
 
 .containerThree ul {
