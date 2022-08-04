@@ -6,6 +6,7 @@ import styles from './HomePage.module.css'
 import NameComponent from '../components/name/NameComponent'
 import TitleComponent from '../components/title/TitleComponent'
 import SocialComponent from '../components/social/SocialComponent'
+import CertificateComponent from '../components/certificate/CertificateComponent'
 
 const HomePage: NextPage = () => {
   return (
@@ -23,6 +24,7 @@ const HomePage: NextPage = () => {
           <NameComponent name='Kent Louise Tonino' />
           <TitleComponent title='Backend Developer' />
           <SocialComponent className={`${styles.containerThree}`} />
+          <CertificateComponent />
         </div>
       </div>
     </Fragment>
