@@ -4,7 +4,12 @@ A Computer Programmer with demonstrated history of working in Web Application De
 ## Experience
 **Web Developer** <br />
 Sun Asterisk Software Development, Inc. <br /> 
-July 16, 2021 - September 15, 2022
+July 2021 - September 2022
+
+## Education
+**Bachelor of Science in Industrial Engineering** <br />
+Visayas State University - Isabel <br />
+June 2013 - May 2018 
 
 ## Recognition
 <details>
