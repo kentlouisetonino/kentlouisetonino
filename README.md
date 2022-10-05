@@ -6,7 +6,7 @@ A Computer Programmer with demonstrated history of working in Web Application De
 Sun Asterisk Software Development, Inc. <br /> 
 July 16, 2021 - September 15, 2022
 
-## Awards and Recognition
+## Recognition
 <details>
 <summary>MVP of the Month, May 31, 2022</summary>
 
