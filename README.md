@@ -1,17 +1,17 @@
 # NodeJS Developer
 A Computer Programmer with demonstrated history of working in Web Application Development. Skilled in ReactJS, Rest API, GraphQL, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Docker, API, and Backend Development. Also a Machine Learning hobbyist and currently learning the technology.
 
-## Experience
+## _Experience_
 **Web Developer** <br />
 Sun Asterisk Software Development, Inc. <br /> 
 July 2021 - September 2022
 
-## Education
+## _Education_
 **Bachelor of Science in Industrial Engineering** <br />
 Visayas State University - Isabel <br />
 June 2013 - May 2018 
 
-## Recognition
+## _Recognition_
 <details>
 <summary>MVP of the Month, May 31, 2022</summary>
 
