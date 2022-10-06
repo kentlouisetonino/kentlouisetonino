@@ -75,21 +75,15 @@ https://www.sololearn.com/certificates/CT-MKBL8ITD
 ## _Award & Recognition_
 <details>
 <summary>MVP of the Month, 2022/05/31</summary>
-
-![Recognition_ MVP of the Month - May 2022](https://user-images.githubusercontent.com/69438999/194123757-73592c7b-bf95-4f2d-89a8-8bbeac2a534a.png)
-
+https://drive.google.com/file/d/1WyKKVrJi48XCmbakvXTDLkKrbKq5DCbt/view?usp=sharing
 </details>
 
 <details>
 <summary>MVP of the Month, 2022/01/31</summary>
-
-![Recognition_ MVP of the Month - January 2022-1](https://user-images.githubusercontent.com/69438999/194123565-0ef2cc28-cc17-4b23-9c9a-c5e8b8717e6b.png)
-
+https://drive.google.com/file/d/1_h991-mq964JwTuy9AIjDhuaC_mLOtd8/view?usp=sharing
 </details>
 
 <details>
 <summary>Best Effort of the Month, 2021/01/10</summary>
-  
-![Recognition_ Best Effort of the Month - December 2021-1](https://user-images.githubusercontent.com/69438999/194122095-802782b4-5fc0-4a5b-bac8-abfcfb1e812b.png)
-
+https://drive.google.com/file/d/1eAUAjS90T_2Z-OLYWnuSWSEhSf9Zxxpd/view?usp=sharing
 </details>
