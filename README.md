@@ -13,6 +13,34 @@ Visayas State University - Isabel <br />
 
 ## _Certificate_
 <details>
+<summary>SoloLearn Python Core, 2021/10/10</summary>
+
+![f54a0269-af3c-4dff-9a59-65b474e39986](https://user-images.githubusercontent.com/69438999/194219648-6de9bf7a-95c7-4e03-b5b9-af2668385a9b.png)
+
+</details>
+
+<details>
+<summary>SoloLearn Intermediate Python, 2021/10/09</summary>
+
+![58080b8b-a98f-4687-9f3e-3878cf7d41e8](https://user-images.githubusercontent.com/69438999/194219534-45ab93fb-b9f6-4eda-b558-3fea0ec32214.png)
+
+</details>
+
+<details>
+<summary>SoloLearn Python for Beginners, 2021/09/26</summary>
+
+![e7e399e0-3f5e-4fcf-84a9-7db4ec15a8a6](https://user-images.githubusercontent.com/69438999/194219390-0d5a4d4f-f36b-4e08-a680-f29cea5b0172.png)
+
+</details>
+
+<details>
+<summary>SoloLearn SQL, 2021/09/17</summary>
+
+![2575a908-fa60-45c1-a269-c24c3dfa4204](https://user-images.githubusercontent.com/69438999/194219240-bf76cc0d-bb8f-4226-8f90-2f6dbc1d1523.png)
+
+</details>
+
+<details>
 <summary>SoloLearn React & Redux, 2021/08/01</summary>
 
 ![dfda3de2-8606-44c8-9605-81ea2cc7ce3c](https://user-images.githubusercontent.com/69438999/194219048-36b3bd8f-a141-45fe-a516-f78a6fe8b295.png)
