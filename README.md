@@ -11,6 +11,14 @@ July 16, 2021 - September 15, 2022
 Visayas State University - Isabel <br />
 June 03, 2013 - July 02, 2018 
 
+## _Certificates_
+<details>
+<summary>SoloLearn: HTML, 2021/02/23</summary>
+
+![cert-CT-MKBL8ITD](https://user-images.githubusercontent.com/69438999/194217222-9b72d174-f4bd-4a89-bbf6-9ae2636bb872.jpg)
+
+</details>
+
 ## _Recognition_
 <details>
 <summary>MVP of the Month, May 31, 2022</summary>
