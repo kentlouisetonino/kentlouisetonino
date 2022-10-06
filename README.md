@@ -9,7 +9,7 @@ July 16, 2021 - September 15, 2022
 ## _Education_
 **Bachelor of Science in Industrial Engineering** <br />
 Visayas State University - Isabel <br />
-June 03, 2013 - May 31, 2018 
+June 03, 2013 - July 02, 2018 
 
 ## _Recognition_
 <details>
