@@ -13,6 +13,20 @@ Visayas State University - Isabel <br />
 
 ## _Certificates_
 <details>
+<summary>SoloLearn JavaScript, 2021/04/05</summary>
+
+![d6d8ee0d-f5e8-4afd-baf5-875411d231f1](https://user-images.githubusercontent.com/69438999/194218283-9c18b763-e0c2-4306-8d10-a1972d0edbb7.png)
+
+</details>
+
+<details>
+<summary>SoloLearn CSS, 2021/03/11</summary>
+
+![ef60e01d-2be4-40d3-b1a2-6480a2471dfc](https://user-images.githubusercontent.com/69438999/194218140-f7602a50-58b8-415b-b152-c0d361fd98f7.png)
+
+</details>
+
+<details>
 <summary>SoloLearn HTML, 2021/02/23</summary>
 
 ![cert-CT-MKBL8ITD](https://user-images.githubusercontent.com/69438999/194217222-9b72d174-f4bd-4a89-bbf6-9ae2636bb872.jpg)
