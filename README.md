@@ -48,6 +48,11 @@ https://www.sololearn.com/certificates/CT-K6KUNZPR
 </details>
 
 <details>
+<summary>Zuitt Developer Course, 2021/06/25</summary>
+https://share.zertify.zuitt.co/certificate/f34711fa-603a-437f-8869-77067de5f7fd/
+</details>
+
+<details>
 <summary>SoloLearn Responsive Web Design, 2021/04/13</summary>
 https://www.sololearn.com/certificates/CT-7IGP6UKW
 </details>
