@@ -11,7 +11,35 @@ Sun Asterisk Software Development, Inc. <br />
 Visayas State University - Isabel <br />
 2013/06/03 - 2018/07/02 
 
-## _Certificates_
+## _Certificate_
+<details>
+<summary>SoloLearn React & Redux, 2021/08/01</summary>
+
+![dfda3de2-8606-44c8-9605-81ea2cc7ce3c](https://user-images.githubusercontent.com/69438999/194219048-36b3bd8f-a141-45fe-a516-f78a6fe8b295.png)
+
+</details>
+
+<details>
+<summary>SoloLearn PHP, 2021/07/23</summary>
+  
+![2a637c36-a0f5-4ca3-b2c5-66c626e5634a](https://user-images.githubusercontent.com/69438999/194218910-757e9f2c-ca73-4391-9beb-36fd76461b9d.png)
+
+</details>
+
+<details>
+<summary>SoloLearn Responsive Web Design, 2021/04/13</summary>
+  
+![b726354e-3f36-4e0f-9e1a-892cbb4bfb1b](https://user-images.githubusercontent.com/69438999/194218558-ef002330-38aa-40a0-85b9-ab1dfc7b5d61.png)
+
+</details>
+
+<details>
+<summary>SoloLearn jQuery, 2021/04/11</summary>
+  
+![e504b6da-fe6e-424a-8595-3220edde0385](https://user-images.githubusercontent.com/69438999/194218739-bcdb0e04-7536-48ef-9f47-ca13df27cbdb.png)
+
+</details>
+
 <details>
 <summary>SoloLearn JavaScript, 2021/04/05</summary>
 
