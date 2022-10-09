@@ -12,7 +12,7 @@ Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvo
 Visayas State University - Isabel <br />
 College Level, Completed 210 Units <br />
 2013/06/03 - 2018/07/02 <br />
-Link: [Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
+Link: [Potential Career Achievement Seminar, 2013/08/20](https://drive.google.com/file/d/1w8wccgfkwMomLo1LMi7YjWsQiNBqTd2r/view?usp=sharing) | [Effective Legal Career Guidance for a Good Quality Work Performance Seminar, 2015/09/18](https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=sharing)
 
 ## _Certificate_
 <details>
