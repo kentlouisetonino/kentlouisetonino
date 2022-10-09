@@ -90,7 +90,7 @@ https://drive.google.com/file/d/1w8wccgfkwMomLo1LMi7YjWsQiNBqTd2r/view?usp=shari
 https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=sharing
 </details>
 
-## Recognition
+## _Recognition_
 <details>
 <summary>Sun Asterisk Software Development, Inc., MVP of the Month, 2022/05/31</summary>
 https://drive.google.com/file/d/1WyKKVrJi48XCmbakvXTDLkKrbKq5DCbt/view?usp=sharing
