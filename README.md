@@ -79,6 +79,16 @@ https://www.sololearn.com/certificates/CT-OZUWDTZB
 https://www.sololearn.com/certificates/CT-MKBL8ITD
 </details>
 
+<details>
+<summary>Visayas State University - Isabel, Potential Career Achievement Seminar, 2013/08/20</summary>
+https://drive.google.com/file/d/1w8wccgfkwMomLo1LMi7YjWsQiNBqTd2r/view?usp=sharing
+</details>
+
+<details>
+<summary>Visayas State University - Isabel, Effective Legal Career Guidance for a Good Quality Work Performance, 2015/09/18</summary>
+https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=sharing
+</details>
+
 ## _Award & Recognition_
 <details>
 <summary>MVP of the Month, 2022/05/31</summary>
