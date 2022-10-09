@@ -3,7 +3,7 @@ Experienced Computer Programmer with demonstrated history of working in Software
 
 ## _Experience_
 **Web Developer** <br />
-Sun Asterisk Software Development, Inc. <br /> 
+Sun Asterisk Philippines <br /> 
 2021/07/16 - 2022/09/15 <br />
 Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
 
@@ -92,16 +92,16 @@ https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=shari
 
 ## _Recognition_
 <details>
-<summary>Sun Asterisk Software Development, Inc., MVP of the Month, 2022/05/31</summary>
+<summary>Sun Asterisk Philippines, MVP of the Month, 2022/05/31</summary>
 https://drive.google.com/file/d/1WyKKVrJi48XCmbakvXTDLkKrbKq5DCbt/view?usp=sharing
 </details>
 
 <details>
-<summary>Sun Asterisk Software Development, Inc., MVP of the Month, 2022/01/31</summary>
+<summary>Sun Asterisk Philippines, MVP of the Month, 2022/01/31</summary>
 https://drive.google.com/file/d/1_h991-mq964JwTuy9AIjDhuaC_mLOtd8/view?usp=sharing
 </details>
 
 <details>
-<summary>Sun Asterisk Software Development, Inc., Best Effort of the Month, 2022/01/10</summary>
+<summary>Sun Asterisk Philippines, Best Effort of the Month, 2022/01/10</summary>
 https://drive.google.com/file/d/1eAUAjS90T_2Z-OLYWnuSWSEhSf9Zxxpd/view?usp=sharing
 </details>
