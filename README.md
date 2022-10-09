@@ -9,7 +9,8 @@ Sun Asterisk Software Development, Inc. <br />
 ## _Education_
 **Bachelor of Science in Industrial Engineering** <br />
 Visayas State University - Isabel <br />
-2013/06/03 - 2018/07/02 
+2013/06/03 - 2018/07/02 <br />
+[Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
 
 ## _Certificate_
 <details>
