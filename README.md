@@ -1,5 +1,5 @@
 # NodeJS Developer
-A Computer Programmer with demonstrated history of working in Software Engineering. Skilled in ReactJS, NextJS, Rest API, GraphQL, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Docker, API, and Backend Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
+A Computer Programmer with demonstrated history of working in Software Engineering. Skilled in ReactJS, NextJS, Rest API, GraphQL, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Docker, Git, Bash, and Github. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
 
 ## _Experience_
 **Web Developer** <br />
