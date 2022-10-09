@@ -5,7 +5,7 @@ A Computer Programmer with demonstrated history of working in Software Engineeri
 **Web Developer** <br />
 Sun Asterisk Software Development, Inc. <br /> 
 2021/07/16 - 2022/09/15 <br />
-Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
+Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing) | [Best Effort of the Month, 2022/01/10](https://drive.google.com/drive/u/0/folders/11v13rXOEerv2MlDjkz1nUv3Xy2UV767o) | [MVP of the Month, 2022/01/31](https://drive.google.com/file/d/1_h991-mq964JwTuy9AIjDhuaC_mLOtd8/view?usp=sharing) | [MVP of the Month, 2022/05/31](https://drive.google.com/file/d/1_h991-mq964JwTuy9AIjDhuaC_mLOtd8/view?usp=sharing)
 
 ## _Education_
 **Bachelor of Science in Industrial Engineering** <br />
@@ -88,20 +88,4 @@ https://drive.google.com/file/d/1w8wccgfkwMomLo1LMi7YjWsQiNBqTd2r/view?usp=shari
 <details>
 <summary>Visayas State University - Isabel, Effective Legal Career Guidance for a Good Quality Work Performance, 2015/09/18</summary>
 https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=sharing
-</details>
-
-## _Award & Recognition_
-<details>
-<summary>MVP of the Month, 2022/05/31</summary>
-https://drive.google.com/file/d/1WyKKVrJi48XCmbakvXTDLkKrbKq5DCbt/view?usp=sharing
-</details>
-
-<details>
-<summary>MVP of the Month, 2022/01/31</summary>
-https://drive.google.com/file/d/1_h991-mq964JwTuy9AIjDhuaC_mLOtd8/view?usp=sharing
-</details>
-
-<details>
-<summary>Best Effort of the Month, 2021/01/10</summary>
-https://drive.google.com/file/d/1eAUAjS90T_2Z-OLYWnuSWSEhSf9Zxxpd/view?usp=sharing
 </details>
