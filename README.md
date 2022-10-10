@@ -22,7 +22,7 @@ Experienced Computer Programmer with demonstrated history of working in Software
 **Python Environment**
 - Library: Pandas, Mathplotlib
 
-**PHP Library**
+**PHP Environment**
 - Stateless API: RestAPI
 - Unit Test: PHP Unit
 - Backend Framework: Laravel
