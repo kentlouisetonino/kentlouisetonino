@@ -42,79 +42,79 @@ College Level, Completed 210 Units <br />
 2013/06/03 - 2018/07/02 <br />
 Link: [Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
 
-# _Certificate_
+# Certificate
 <details>
-<summary>FreeCodeCamp, JavaScript Algorithms and Data Structures, 2022/08/03</summary>
+<summary><i>FreeCodeCamp, JavaScript Algorithms and Data Structures, 2022/08/03</i></summary>
 https://www.freecodecamp.org/certification/kentlouisetonino/javascript-algorithms-and-data-structures
 </details>
 
 <details>
-<summary>SoloLearn, Python Core, 2021/10/10</summary>
+<summary><i>SoloLearn, Python Core, 2021/10/10</i></summary>
 https://www.sololearn.com/certificates/CT-UOJ7MU3L
 </details>
 
 <details>
-<summary>SoloLearn, Intermediate Python, 2021/10/09</summary>
+<summary><i>SoloLearn, Intermediate Python, 2021/10/09</i></summary>
 https://www.sololearn.com/certificates/CT-LINAPDZ2
 </details>
 
 <details>
-<summary>SoloLearn, Python for Beginners, 2021/09/26</summary>
+<summary><i>SoloLearn, Python for Beginners, 2021/09/26</i></summary>
 https://www.sololearn.com/certificates/CT-THPHVBQX
 </details>
 
 <details>
-<summary>SoloLearn, SQL, 2021/09/17</summary>
+<summary><i>SoloLearn, SQL, 2021/09/17</i></summary>
 https://www.sololearn.com/certificates/CT-OYPTHJVE
 </details>
 
 <details>
-<summary>SoloLearn, React & Redux, 2021/08/01</summary>
+<summary><i>SoloLearn, React & Redux, 2021/08/01</i></summary>
 https://www.sololearn.com/certificates/CT-BDZB6GLV
 </details>
 
 <details>
-<summary>SoloLearn, PHP, 2021/07/23</summary>
+<summary><i>SoloLearn, PHP, 2021/07/23</i></summary>
 https://www.sololearn.com/certificates/CT-K6KUNZPR
 </details>
 
 <details>
-<summary>Zuitt, Developer Course, 2021/06/25</summary>
+<summary><i>Zuitt, Developer Course, 2021/06/25</i></summary>
 https://share.zertify.zuitt.co/certificate/f34711fa-603a-437f-8869-77067de5f7fd/
 </details>
 
 <details>
-<summary>SoloLearn, Responsive Web Design, 2021/04/13</summary>
+<summary><i>SoloLearn, Responsive Web Design, 2021/04/13</i></summary>
 https://www.sololearn.com/certificates/CT-7IGP6UKW
 </details>
 
 <details>
-<summary>SoloLearn, jQuery, 2021/04/11</summary>
+<summary><i>SoloLearn, jQuery, 2021/04/11</i></summary>
 https://www.sololearn.com/certificates/CT-DUI5SMHW
 </details>
 
 <details>
-<summary>SoloLearn, JavaScript, 2021/04/05</summary>
+<summary><i>SoloLearn, JavaScript, 2021/04/05</i></summary>
 https://www.sololearn.com/certificates/CT-TGX5B996
 </details>
 
 <details>
-<summary>SoloLearn, CSS, 2021/03/11</summary>
+<summary><i>SoloLearn, CSS, 2021/03/11</i></summary>
 https://www.sololearn.com/certificates/CT-OZUWDTZB
 </details>
 
 <details>
-<summary>SoloLearn, HTML, 2021/02/23</summary>
+<summary><i>SoloLearn, HTML, 2021/02/23</i></summary>
 https://www.sololearn.com/certificates/CT-MKBL8ITD
 </details>
 
 <details>
-<summary>Visayas State University - Isabel, Potential Career Achievement Seminar, 2013/08/20</summary>
+<summary><i>Visayas State University - Isabel, Potential Career Achievement Seminar, 2013/08/20</i></summary>
 https://drive.google.com/file/d/1w8wccgfkwMomLo1LMi7YjWsQiNBqTd2r/view?usp=sharing
 </details>
 
 <details>
-<summary>Visayas State University - Isabel, Effective Legal Career Guidance for a Good Quality Work Performance, 2015/09/18</summary>
+<summary><i>Visayas State University - Isabel, Effective Legal Career Guidance for a Good Quality Work Performance, 2015/09/18</i></summary>
 https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=sharing
 </details>
 
