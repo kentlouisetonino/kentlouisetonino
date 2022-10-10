@@ -2,7 +2,7 @@
 _Experienced Computer Programmer with demonstrated history of working in NodeJS Software Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
 # Experience
-_**Web Developer**, Sun Asterisk Philippines_ <br />
+_**Full Stack Developer**, Sun Asterisk Philippines_ <br />
 _2021/07/16 - 2022/09/15_ <br />
 _Link:_ [_Company ID_](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
 - _Integrate external services and API (Auth0, Stripe, AWS S3, Azure Functions, etc.)._
