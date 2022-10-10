@@ -12,7 +12,7 @@ _Link:_ [_Company ID_](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neo
 - _Integrate backend API to frontend._
 - _Code review and merged pull requests from fellow developers._
 - _Participate in Agile activities: Scrum, Sprint, and Retrospective meetings._
-- _Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux._
+- _Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, PHPUnit, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux._
 
 # Education
 **_Bachelor of Science, Industrial Engineering_** <br />
