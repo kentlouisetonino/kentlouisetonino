@@ -1,8 +1,8 @@
-# Software Engineer at Cell-5
+# Software Engineer @ Cell 5
 Experienced Computer Programmer with demonstrated history of working in Software Engineering. Skilled in ReactJS, NextJS, Rest API, GraphQL, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Docker, Git, Bash, and Github. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
 
 ## _Experience_
-**Software Engineer**, Cell-5 <br />
+**Software Engineer**, Cell 5 <br />
 2022/10/_ - Present <br />
 Link: [Website](https://cell5.co.uk/) | [LinkedIn](https://www.linkedin.com/company/cell-five/)
 
