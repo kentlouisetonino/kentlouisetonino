@@ -26,6 +26,14 @@ Experienced Computer Programmer with demonstrated history of working in Software
 **Web Developer**, Sun Asterisk Philippines <br />
 2021/07/16 - 2022/09/15 <br />
 Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
+- Integrate external services and API (Auth0, Stripe, AWS S3, Azure Functions, etc.). 
+- Setup github workflows for continuous integration.
+- Implements authentication, authorization, and social API integration.
+- Design and implement backend API based on the requirements.
+- Integrate backend API to frontend.
+- Code review and merged pull requests from fellow developers.
+- Participate in Agile activities: Scrum, Sprint, and Retrospective meetings.
+- Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, Python, Django, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux.
 
 ## _Education_
 **Bachelor of Science, Industrial Engineering** <br />
