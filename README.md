@@ -3,7 +3,7 @@ Experienced Computer Programmer with demonstrated history of working in Software
 
 ## _Technical Skills_
 **Programming Language**
-- JavaScript, TypeScript, Python, PHP, C++ <br />
+- JavaScript, TypeScript, Python, C++ <br />
 
 **Frontend Development**
 - Language: HTML, CSS
@@ -18,14 +18,6 @@ Experienced Computer Programmer with demonstrated history of working in Software
 - Object Relational Mapping (ORM): TypeORM, Prisma
 - Database Engine: PostgreSQL, MySQL
 - External API: AWS S3, Auth0, Sendgrid, Stripe, Twitter
-
-**Python Environment**
-- Library: Pandas, Mathplotlib
-
-**PHP Environment**
-- Stateless API: RestAPI
-- Unit Test: PHP Unit
-- Backend Framework: Laravel
 
 **Other Technology**
 - Git, Bash, Gitub Workflow, Github, Ubuntu Linux
