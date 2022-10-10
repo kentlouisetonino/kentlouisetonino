@@ -1,20 +1,5 @@
 # NodeJS Developer
-_Experienced Computer Programmer with demonstrated history of working in Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
-
-# Technical Skill
-- _JavaScript_
-- _TypeScript_
-- _NodeJS_
-- _Python_
-- _C++_
-- _PostgreSQL_
-- _MySQL_
-- _Git_
-- _Bash_
-- _Github_
-- _Vercel_
-- _Heroku_
-- _Ubuntu Linux_
+_Experienced Computer Programmer with demonstrated history of working in NodeJS Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
 # Experience
 _**Web Developer**, Sun Asterisk Philippines_ <br />
@@ -27,7 +12,7 @@ _Link:_ [_Company ID_](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neo
 - _Integrate backend API to frontend._
 - _Code review and merged pull requests from fellow developers._
 - _Participate in Agile activities: Scrum, Sprint, and Retrospective meetings._
-- _Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, Python, Django, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux._
+- _Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux._
 
 # Education
 **_Bachelor of Science, Industrial Engineering_** <br />
