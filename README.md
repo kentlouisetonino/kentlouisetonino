@@ -14,6 +14,7 @@ Experienced Computer Programmer with demonstrated history of working in Software
 **NodeJS Environment**
 - Stateless API: RestAPI, GraphQL
 - Backend Framework: ExpressJS, NestJS
+- Object Relational Mapping (ORM): TypeORM, Prisma
 - Database Engine: PostgreSQL, MySQL
 - External API: AWS S3, Auth0, Sendgrid, Stripe, Twitter
 
