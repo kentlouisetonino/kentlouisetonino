@@ -5,7 +5,7 @@ Experienced Computer Programmer with demonstrated history of working in Software
 **Software Engineer** <br />
 Cell 5 <br />
 2022/10/_ - Present <br />
-Link: [Company](https://cell5.co.uk/)
+Link: [Website](https://cell5.co.uk/) | [LinkedIn](https://www.linkedin.com/company/cell-five/)
 
 **Web Developer** <br />
 Sun Asterisk Philippines <br /> 
