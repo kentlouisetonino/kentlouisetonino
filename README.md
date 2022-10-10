@@ -8,7 +8,7 @@ Sun Asterisk Philippines <br />
 Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
 
 ## _Education_
-**Bachelor of Science in Industrial Engineering** <br />
+**Bachelor of Science, Industrial Engineering** <br />
 Visayas State University - Isabel <br />
 College Level, Completed 210 Units <br />
 2013/06/03 - 2018/07/02 <br />
