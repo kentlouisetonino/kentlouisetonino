@@ -2,13 +2,11 @@
 Experienced Computer Programmer with demonstrated history of working in Software Engineering. Skilled in ReactJS, NextJS, Rest API, GraphQL, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Docker, Git, Bash, and Github. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
 
 ## _Experience_
-**Software Engineer** <br />
-Cell-5 <br />
+**Software Engineer**, Cell-5 <br />
 2022/10/_ - Present <br />
 Link: [Website](https://cell5.co.uk/) | [LinkedIn](https://www.linkedin.com/company/cell-five/)
 
-**Web Developer** <br />
-Sun Asterisk Philippines <br /> 
+**Web Developer**, Sun Asterisk Philippines <br />
 2021/07/16 - 2022/09/15 <br />
 Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
 
