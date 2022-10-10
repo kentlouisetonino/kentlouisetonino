@@ -35,12 +35,12 @@ Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvo
 - Participate in Agile activities: Scrum, Sprint, and Retrospective meetings.
 - Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, Python, Django, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux.
 
-# _Education_
-**Bachelor of Science, Industrial Engineering** <br />
-Visayas State University - Isabel <br />
-College Level, Completed 210 Units <br />
-2013/06/03 - 2018/07/02 <br />
-Link: [Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
+# Education
+**_Bachelor of Science, Industrial Engineering_** <br />
+_Visayas State University - Isabel_ <br />
+_College Level, Completed 210 Units_ <br />
+_2013/06/03 - 2018/07/02_ <br />
+_Link:_ [_Transcript of Record_](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
 
 # Certificate
 <details>
