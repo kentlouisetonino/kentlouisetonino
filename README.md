@@ -1,7 +1,7 @@
 # NodeJS Developer
 Experienced Computer Programmer with demonstrated history of working in Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
 
-## _Technical Skills_
+# _Technical Skills_
 **Programming Language**
 - JavaScript, TypeScript, Python, C++ <br />
 
@@ -22,7 +22,7 @@ Experienced Computer Programmer with demonstrated history of working in Software
 **Other Technology**
 - Git, Bash, Gitub Workflow, Github, Ubuntu Linux
 
-## _Experience_
+# _Experience_
 **Web Developer**, Sun Asterisk Philippines <br />
 2021/07/16 - 2022/09/15 <br />
 Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
@@ -35,14 +35,14 @@ Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvo
 - Participate in Agile activities: Scrum, Sprint, and Retrospective meetings.
 - Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, Python, Django, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux.
 
-## _Education_
+# _Education_
 **Bachelor of Science, Industrial Engineering** <br />
 Visayas State University - Isabel <br />
 College Level, Completed 210 Units <br />
 2013/06/03 - 2018/07/02 <br />
 Link: [Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
 
-## _Certificate_
+# _Certificate_
 <details>
 <summary>FreeCodeCamp, JavaScript Algorithms and Data Structures, 2022/08/03</summary>
 https://www.freecodecamp.org/certification/kentlouisetonino/javascript-algorithms-and-data-structures
@@ -118,7 +118,7 @@ https://drive.google.com/file/d/1w8wccgfkwMomLo1LMi7YjWsQiNBqTd2r/view?usp=shari
 https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=sharing
 </details>
 
-## _Recognition_
+# _Recognition_
 <details>
 <summary>Sun Asterisk Philippines, MVP of the Month, 2022/05/31</summary>
 https://drive.google.com/file/d/1WyKKVrJi48XCmbakvXTDLkKrbKq5DCbt/view?usp=sharing
