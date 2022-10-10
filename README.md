@@ -1,5 +1,18 @@
 # NodeJS Developer
-Experienced Computer Programmer with demonstrated history of working in Software Engineering. Skilled in ReactJS, NextJS, Rest API, GraphQL, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Docker, Git, Bash, and Github. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
+Experienced Computer Programmer with demonstrated history of working in Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
+
+## _Technical Skills_
+**Programming Languages**
+- JavaScript, TypeScript, PHP, Python, C++ <br />
+
+**Frontend Development**
+- Language: HTML, CSS
+- CSS Framework: Bootstrap, Tailwind CSS
+- Library: ReactJS, Redux Toolkit
+- Frontend Framework: NextJS
+
+**NodeJS Environment**
+- RestAPI, GraphQL, ExpressJS, NestJS, PostgreSQL, MySQL
 
 ## _Experience_
 **Web Developer**, Sun Asterisk Philippines <br />
