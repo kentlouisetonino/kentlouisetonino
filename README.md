@@ -3,7 +3,7 @@ Experienced Computer Programmer with demonstrated history of working in Software
 
 ## _Technical Skills_
 **Programming Language**
-- JavaScript, TypeScript, PHP, Python, C++ <br />
+- JavaScript, TypeScript, Python, PHP, C++ <br />
 
 **Frontend Development**
 - Language: HTML, CSS
@@ -13,13 +13,22 @@ Experienced Computer Programmer with demonstrated history of working in Software
 
 **NodeJS Environment**
 - Stateless API: RestAPI, GraphQL
+- Unit Test: Jest
 - Backend Framework: ExpressJS, NestJS
 - Object Relational Mapping (ORM): TypeORM, Prisma
 - Database Engine: PostgreSQL, MySQL
 - External API: AWS S3, Auth0, Sendgrid, Stripe, Twitter
 
 **Python Environment**
+- Library: Pandas, Mathplotlib
 
+**PHP Library**
+- Stateless API: RestAPI
+- Unit Test: PHP Unit
+- Backend Framework: Laravel
+
+**Other Technology**
+- Git, Bash, Gitub Workflow, Github, Ubuntu Linux
 
 ## _Experience_
 **Web Developer**, Sun Asterisk Philippines <br />
