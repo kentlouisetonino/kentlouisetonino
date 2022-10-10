@@ -1,26 +1,20 @@
 # NodeJS Developer
-Experienced Computer Programmer with demonstrated history of working in Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
+_Experienced Computer Programmer with demonstrated history of working in Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
-# _Technical Skills_
-**Programming Language**
-- JavaScript, TypeScript, Python, C++ <br />
-
-**Frontend Development**
-- Language: HTML, CSS
-- CSS Framework: Bootstrap, Tailwind CSS
-- Library: ReactJS, Redux Toolkit
-- Frontend Framework: NextJS
-
-**NodeJS Environment**
-- Stateless API: RestAPI, GraphQL
-- Unit Test: Jest
-- Backend Framework: ExpressJS, NestJS
-- Object Relational Mapping (ORM): TypeORM, Prisma
-- Database Engine: PostgreSQL, MySQL
-- External API: AWS S3, Auth0, Sendgrid, Stripe, Twitter
-
-**Other Technology**
-- Git, Bash, Gitub Workflow, Github, Ubuntu Linux
+# Technical Skill
+- _JavaScript_
+- _TypeScript_
+- _NodeJS_
+- _Python_
+- _C++_
+- _PostgreSQL_
+- _MySQL_
+- _Git_
+- _Bash_
+- _Github_
+- _Vercel_
+- _Heroku_
+- _Ubuntu Linux_
 
 # Experience
 _**Web Developer**, Sun Asterisk Philippines_ <br />
