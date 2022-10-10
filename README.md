@@ -118,18 +118,18 @@ https://drive.google.com/file/d/1w8wccgfkwMomLo1LMi7YjWsQiNBqTd2r/view?usp=shari
 https://drive.google.com/file/d/1E4bizBf2w7FjOwe5lUPcBpvjrjX92fkG/view?usp=sharing
 </details>
 
-# _Recognition_
+# Recognition
 <details>
-<summary>Sun Asterisk Philippines, MVP of the Month, 2022/05/31</summary>
+<summary><i>Sun Asterisk Philippines, MVP of the Month, 2022/05/31</i></summary>
 https://drive.google.com/file/d/1WyKKVrJi48XCmbakvXTDLkKrbKq5DCbt/view?usp=sharing
 </details>
 
 <details>
-<summary>Sun Asterisk Philippines, MVP of the Month, 2022/01/31</summary>
+<summary><i>Sun Asterisk Philippines, MVP of the Month, 2022/01/31</i></summary>
 https://drive.google.com/file/d/1_h991-mq964JwTuy9AIjDhuaC_mLOtd8/view?usp=sharing
 </details>
 
 <details>
-<summary>Sun Asterisk Philippines, Best Effort of the Month, 2022/01/10</summary>
+<summary><i>Sun Asterisk Philippines, Best Effort of the Month, 2022/01/10</i></summary>
 https://drive.google.com/file/d/1eAUAjS90T_2Z-OLYWnuSWSEhSf9Zxxpd/view?usp=sharing
 </details>
