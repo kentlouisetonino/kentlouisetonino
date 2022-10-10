@@ -1,5 +1,5 @@
 # NodeJS Developer
-_Experienced Computer Programmer with demonstrated history of working in NodeJS Software Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
+_Experienced Computer Programmer with demonstrated history of working in NodeJS Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
 # Experience
 _**Web Developer**, Sun Asterisk Philippines_ <br />
