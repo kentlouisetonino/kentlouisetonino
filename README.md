@@ -8,7 +8,7 @@ Link: [Website](https://cell5.co.uk/) | [LinkedIn](https://www.linkedin.com/comp
 
 **Web Developer**, Sun Asterisk Philippines <br />
 2021/07/16 - 2022/09/15 <br />
-Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
+Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing) | [Website](https://en.sun-asterisk.com/)
 
 ## _Education_
 **Bachelor of Science, Industrial Engineering** <br />
