@@ -2,7 +2,7 @@
 Experienced Computer Programmer with demonstrated history of working in Software Engineering. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
 
 ## _Technical Skills_
-**Programming Languages**
+**Programming Language**
 - JavaScript, TypeScript, PHP, Python, C++ <br />
 
 **Frontend Development**
@@ -12,7 +12,13 @@ Experienced Computer Programmer with demonstrated history of working in Software
 - Frontend Framework: NextJS
 
 **NodeJS Environment**
-- RestAPI, GraphQL, ExpressJS, NestJS, PostgreSQL, MySQL
+- Stateless API: RestAPI, GraphQL
+- Backend Framework: ExpressJS, NestJS
+- Database Engine: PostgreSQL, MySQL
+- External API: AWS S3, Auth0, Sendgrid, Stripe, Twitter
+
+**Python Environment**
+
 
 ## _Experience_
 **Web Developer**, Sun Asterisk Philippines <br />
