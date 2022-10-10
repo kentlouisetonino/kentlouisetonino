@@ -11,7 +11,8 @@ Link: [Website](https://cell5.co.uk/) | [LinkedIn](https://www.linkedin.com/comp
 Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing) | [Website](https://en.sun-asterisk.com/)
 
 ## _Education_
-**Bachelor of Science in Industrial Engineering**, Visayas State University - Isabel <br />
+**Bachelor of Science, Industrial Engineering** <br />
+Visayas State University - Isabel <br />
 College Level, Completed 210 Units <br />
 2013/06/03 - 2018/07/02 <br />
 Link: [Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
