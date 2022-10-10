@@ -2,7 +2,7 @@
 Experienced Computer Programmer with demonstrated history of working in Software Engineering. Skilled in ReactJS, NextJS, Rest API, GraphQL, JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, PostgreSQL, MySQL, Docker, Git, Bash, and Github. Also a Programmer willing to learn old and new technologies with a strong get it done mindset.
 
 ## _Experience_
-**Software Engineer**
+**Software Engineer** <br />
 Cell 5 <br />
 2022/10/_ - Present
 
