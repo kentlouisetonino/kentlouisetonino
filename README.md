@@ -21,6 +21,7 @@ Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS,
 _Visayas State University - Isabel_ <br />
 _College Level, Completed 210 Units_ <br />
 _2013/06/03 - 2018/07/02_ <br />
+_Link: [Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)_
 
 # Certificate
 <details>
