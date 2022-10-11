@@ -1,6 +1,11 @@
 # NodeJS Developer
 _Experienced Computer Programmer with demonstrated history of working in NodeJS Software Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
+# Experience
+**_Web Developer_** <br />
+_Sun Asterisk Software Development, Inc._ <br />
+_2021/07/16 - 2022/09/15_ <br />
+
 # Education
 **_Bachelor of Science, Industrial Engineering_** <br />
 _Visayas State University - Isabel_ <br />
