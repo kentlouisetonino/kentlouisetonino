@@ -1,19 +1,6 @@
 # NodeJS Developer
 _Experienced Computer Programmer with demonstrated history of working in NodeJS Software Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
-# Experience
-_**Web Developer**, Sun Asterisk Philippines_ <br />
-_2021/07/16 - 2022/09/15_ <br />
-_Link:_ [_Company ID_](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)
-- _Integrate external services and API (Auth0, Stripe, AWS S3, Azure Functions, etc.)._
-- _Setup github workflows for continuous integration._
-- _Implements authentication, authorization, and social API integration._
-- _Design and implement backend API based on the requirements._
-- _Integrate backend API to frontend._
-- _Code review and merged pull requests from fellow developers._
-- _Participate in Agile activities: Scrum, Sprint, and Retrospective meetings._
-- _Uses HTML, CSS, Tailwind CSS, ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJS, PHP, Laravel, PHPUnit, MySQL, PostgreSQL, MSSQL, Azure Functions, AWS S3, Auth0, Stripe, Sendgrid, Git, Bash, Docker, Github, Github Workflow, and Ubuntu Linux._
-
 # Education
 **_Bachelor of Science, Industrial Engineering_** <br />
 _Visayas State University - Isabel_ <br />
