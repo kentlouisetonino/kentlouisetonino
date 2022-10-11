@@ -6,6 +6,15 @@ _Experienced Computer Programmer with demonstrated history of working in NodeJS 
 _Sun Asterisk Software Development, Inc._ <br />
 _2021/07/16 - 2022/09/15_ <br />
 _Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)_
+- _Integrate external services and API (Auth0, Stripe, AWS S3, Azure Functions, etc.)._
+- _Setup github workflows for continuous integration._
+- _Implements authentication, authorization, and social API integration._
+- _Design and implement backend API based on the requirements._-
+- _Integrate backend API to frontend._
+- _Code review and merged pull requests from fellow developers._
+- _Participate in Agile activities: Scrum, Sprint, and Retrospective meetings.
+Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, Python, Django, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, and Ubuntu Linux._
+
 
 # Education
 **_Bachelor of Science, Industrial Engineering_** <br />
