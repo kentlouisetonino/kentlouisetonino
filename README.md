@@ -5,6 +5,7 @@ _Experienced Computer Programmer with demonstrated history of working in NodeJS 
 **_Web Developer_** <br />
 _Sun Asterisk Software Development, Inc._ <br />
 _2021/07/16 - 2022/09/15_ <br />
+_Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)_
 
 # Education
 **_Bachelor of Science, Industrial Engineering_** <br />
