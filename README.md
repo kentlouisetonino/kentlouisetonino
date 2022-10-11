@@ -6,7 +6,6 @@ _Experienced Computer Programmer with demonstrated history of working in NodeJS 
 _Visayas State University - Isabel_ <br />
 _College Level, Completed 210 Units_ <br />
 _2013/06/03 - 2018/07/02_ <br />
-_Link:_ [_Transcript of Record_](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)
 
 # Certificate
 <details>
