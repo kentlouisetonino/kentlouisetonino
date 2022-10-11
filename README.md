@@ -5,7 +5,6 @@ _Experienced Computer Programmer with demonstrated history of working in NodeJS 
 **_Full Stack Developer_** <br />
 _Sun Asterisk Philippines_ <br />
 _2021/07/16 - 2022/09/15_ <br />
-_Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQvoCEoD/view?usp=sharing)_
 - _Integrate external services and API (Auth0, Stripe, AWS S3, Azure Functions, etc.)._
 - _Setup github workflows for continuous integration._
 - _Implements authentication, authorization, and social API integration._
@@ -22,7 +21,6 @@ _Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQv
 _Visayas State University - Isabel_ <br />
 _College Level, Completed 210 Units_ <br />
 _2013/06/03 - 2018/07/02_ <br />
-_Link: [Transcript of Record](https://drive.google.com/file/d/1g0hijf93agsJGm0r6e83WWkCXnGPKYMH/view?usp=sharing)_
 
 # Certificate
 <details>
