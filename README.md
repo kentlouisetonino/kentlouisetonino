@@ -10,6 +10,7 @@ _Link: [Company ID](https://drive.google.com/file/d/1CmF1jIkyryzPK2l3vdUh_neoeQv
 - _Setup github workflows for continuous integration._
 - _Implements authentication, authorization, and social API integration._
 - _Design and implement backend API based on the requirements._-
+- _Converts Figma design to React components._
 - _Integrate backend API to frontend._
 - _Code review and merged pull requests from fellow developers._
 - _Participate in Agile activities: Scrum, Sprint, and Retrospective meetings.
