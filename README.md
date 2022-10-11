@@ -17,7 +17,7 @@ Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS,
 
 
 # Education
-**_Bachelor of Science, Industrial Engineering_** <br />
+**_Bachelor of Science in Industrial Engineering_** <br />
 _Visayas State University - Isabel_ <br />
 _College Level, Completed 210 Units_ <br />
 _2013/06/03 - 2018/07/02_ <br />
