@@ -1,8 +1,5 @@
-# About Me
-_Experienced Computer Programmer with demonstrated history of working in Software Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
-
-**_Programming Languages_** <br />
-- _JavaScript, TypeScript, Python, C++_
+# NodeJS Developer
+_Experienced Computer Programmer with demonstrated history of working in NodeJS Software Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
 # Experience
 **_Software Engineer_**, _Cell 5_ <br />
