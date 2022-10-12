@@ -6,3 +6,6 @@ _Experienced Computer Programmer with demonstrated history of working in Softwar
 
 ## Frontend Development
 - _HTML, CSS, Bootstrap, ReactJS, Redux Toolkit, NextJS_
+
+## NodeJS Environment
+- _Rest API, GraphQL, ExpressJS, NestJS, Jest, TypeORM, PostgreSQL, MySQL_
