@@ -3,7 +3,7 @@ _Experienced Computer Programmer with demonstrated history of working in NodeJS 
 
 # Experience
 **_Software Engineer_** <br />
-_Cell 5_
+_Cell 5_ <br />
 _2022/10/17 - Present_
 
 **_Full Stack Developer_** <br />
