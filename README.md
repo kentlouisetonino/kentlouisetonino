@@ -12,7 +12,7 @@ _2021/07/16 - 2022/09/15_ <br />
 - _Integrate external services and API._
 - _Setup github workflows for continuous integration._
 - _Implements authentication, authorization, and social API integration._
-- _Design and implement backend API based on the requirements._-
+- _Design and implement backend API based on the requirements._
 - _Converts Figma design to React components._
 - _Integrate backend API to frontend._
 - _Code review and merged pull requests from fellow developers._
