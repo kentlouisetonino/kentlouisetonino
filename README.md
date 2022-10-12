@@ -2,12 +2,10 @@
 _Experienced Computer Programmer with demonstrated history of working in NodeJS Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
 # Experience
-**_Software Engineer_** <br />
-_Cell 5_ <br />
+**_Software Engineer_**, _Cell 5_ <br />
 _2022/10/17 - Present_
 
-**_Full Stack Developer_** <br />
-_Sun Asterisk Philippines_ <br />
+**_Full Stack Developer_**, _Sun Asterisk Philippines_ <br />
 _2021/07/16 - 2022/09/15_ <br />
 
 # Education
