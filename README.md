@@ -17,7 +17,7 @@ _2021/07/16 - 2022/09/15_ <br />
 - _Integrate backend API to frontend._
 - _Code review and merged pull requests from fellow developers._
 - _Participate in Agile activities: Scrum, Sprint, and Retrospective meetings._
-- _Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJs, PHP, Laravel, Python, Django, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, Ubuntu Linux, Nodemailer, Azure Functions, Auth0, Twitter API, and AWS S3._
+- _Uses ReactJS, Redux Toolkit, NextJS, Rest API, GraphQL, Jest, ExpressJS, NestJS, JavaScript, TypeScript, NodeJS, MySQL, PostgreSQL MSSQL, Git, Bash, Docker, Github Workflows, Ubuntu Linux, Mailer, Azure Functions, Auth0, Twitter API, and AWS S3._
 
 
 # Education
