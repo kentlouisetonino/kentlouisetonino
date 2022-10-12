@@ -1,16 +1,6 @@
 # NodeJS Developer
 _Experienced Computer Programmer with demonstrated history of working in NodeJS Development. Also a Programmer willing to learn old and new technologies with a strong get it done mindset._
 
-**_Programming Languages_** <br />
-- _JavaScript, TypeScript, Python, C++_
-
-**_Frontend Development_** <br />
-- _HTML, CSS, Bootstrap, Tailwind CSS, ReactJS, NextJS_
-
-**_NodeJS Environment_** <br />
-- Rest API, GraphQL
-
-
 # Experience
 **_Software Engineer_** <br />
 _Cell 5_ <br />
