@@ -14,6 +14,31 @@
 
 ## Certificate
 <details>
+<summary><i><b>Sololearn Python for Core</b></i>, 2021/10/10</summary>
+https://www.sololearn.com/certificates/CT-UOJ7MU3L
+</details>
+
+<details>
+<summary><i><b>Sololearn Intermediate Python</b></i>, 2021/10/09</summary>
+https://www.sololearn.com/certificates/CT-LINAPDZ2
+</details>
+
+<details>
+<summary><i><b>Sololearn Python for Beginners</b></i>, 2021/09/26</summary>
+https://www.sololearn.com/certificates/CT-THPHVBQX
+</details>
+
+<details>
+<summary><i><b>Sololearn SQL</b></i>, 2021/09/17</summary>
+https://www.sololearn.com/certificates/CT-OYPTHJVE
+</details>
+
+<details>
+<summary><i><b>Sololearn React-Redux</b></i>, 2021/08/01</summary>
+https://www.sololearn.com/certificates/CT-BDZB6GLV
+</details>
+
+<details>
 <summary><i><b>Sololearn PHP</b></i>, 2021/07/23</summary>
 https://www.sololearn.com/certificates/CT-K6KUNZPR
 </details>
