@@ -14,6 +14,21 @@
 
 ## Certificate
 <details>
+<summary><i><b>Sololearn Responsive Web Design</b></i>, 2021/04/13</summary>
+https://www.sololearn.com/certificates/CT-7IGP6UKW
+</details>
+
+<details>
+<summary><i><b>Sololearn JavaScript</b></i>, 2021/04/05</summary>
+https://www.sololearn.com/certificates/CT-TGX5B996
+</details>
+
+<details>
+<summary><i><b>Sololearn CSS</b></i>, 2021/03/11</summary>
+https://www.sololearn.com/certificates/CT-OZUWDTZB
+</details>
+
+<details>
 <summary><i><b>Sololearn HTML</b></i>, 2021/02/23</summary>
 https://www.sololearn.com/certificates/CT-MKBL8ITD
 </details>
