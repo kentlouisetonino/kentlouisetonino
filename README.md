@@ -9,12 +9,12 @@
 > - _Setup github workflows for continuous integration._
 > - _Implements authentication, authorization, and social API integration._
 > - _Design and implement backend API based on the requirements._
-> - _Implements unit test using Jest.
+> - _Implements unit test using Jest._
 > - _Convert Figma design to React components._
 > - _Integrate backend API to frontend._
 > - _Code review and merged pull requests from fellow developers._
 > - _Participate in Agile activities: Scrum, Sprint, and Retrospective meetings._
-> - _**Uses** : ReactJS • Redux Toolkit • NextJS • Rest API • GraphQL • Jest • ExpressJS • NestJS • JavaScript • TypeScript • NodeJs • PHP • Laravel • MySQL • PostgreSQL • MSSQL • Git • Bash • Docker • Github Workflows CI • Ubuntu Linux._
+> - _**Uses** : ReactJS • Redux Toolkit • NextJS • Rest API • GraphQL • Jest • ExpressJS • NestJS • JavaScript • TypeScript • NodeJs • MySQL • PostgreSQL • MSSQL • Git • Bash • Docker • Github Workflows CI • Ubuntu Linux._
 
 ## Education
 > **_Bachelor of Science in Industrial Engineering_** <br />
