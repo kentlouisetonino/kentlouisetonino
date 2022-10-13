@@ -11,3 +11,9 @@
 > _Visayas State University - Isabel_ <br />
 > _College Level, Completed 210 Units_ <br />
 > _2013/06/02 - 2018/06/04_
+
+## Certificate
+<details>
+<summary><i><b>Sololearn HTML</b></i>, 2021/02/23</summary>
+https://www.sololearn.com/certificates/CT-MKBL8ITD
+</details>
