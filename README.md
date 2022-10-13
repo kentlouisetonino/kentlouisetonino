@@ -14,8 +14,18 @@
 
 ## Certificate
 <details>
+<summary><i><b>Sololearn PHP</b></i>, 2021/07/23</summary>
+https://www.sololearn.com/certificates/CT-K6KUNZPR
+</details>
+
+<details>
 <summary><i><b>Sololearn Responsive Web Design</b></i>, 2021/04/13</summary>
 https://www.sololearn.com/certificates/CT-7IGP6UKW
+</details>
+
+<details>
+<summary><i><b>Sololearn JQuery</b></i>, 2021/04/11</summary>
+https://www.sololearn.com/certificates/CT-DUI5SMHW
 </details>
 
 <details>
