@@ -39,8 +39,18 @@ https://www.sololearn.com/certificates/CT-BDZB6GLV
 </details>
 
 <details>
+<summary><i><b>Zuitt Intro to Java for JavaScript Developers</b></i>, 2021/07/26</summary>
+https://share.zertify.zuitt.co/certificate/dc3368df-b091-47e1-9bc9-e83e0d31bd77/
+</details>
+
+<details>
 <summary><i><b>Sololearn PHP</b></i>, 2021/07/23</summary>
 https://www.sololearn.com/certificates/CT-K6KUNZPR
+</details>
+
+<details>
+<summary><i><b>Zuitt Developer Course</b></i>, 2021/06/25</summary>
+https://share.zertify.zuitt.co/certificate/f34711fa-603a-437f-8869-77067de5f7fd/
 </details>
 
 <details>
