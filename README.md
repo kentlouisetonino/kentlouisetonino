@@ -14,6 +14,11 @@
 
 ## Certificate
 <details>
+<summary><i><b>FreeCodeCamp JavaScript Algorithms and Data Structures</b></i>, 2022/08/03</summary>
+https://www.freecodecamp.org/certification/kentlouisetonino/javascript-algorithms-and-data-structures
+</details>
+
+<details>
 <summary><i><b>Sololearn Python for Core</b></i>, 2021/10/10</summary>
 https://www.sololearn.com/certificates/CT-UOJ7MU3L
 </details>
