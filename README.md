@@ -1,5 +1,5 @@
 ## Remote Software Developer at Cell 5
-> _Experienced Software Engineer with demonstrated history of working in NodeJS Software Development. Also have basic knowledge in Python and C++ and. Willing to learn old and new technologies with a strong get it done mindset._
+> _Experienced Software Engineer with demonstrated history of working in NodeJS Software Development. Also have basic knowledge in Python and C++. Willing to learn old and new technologies with a strong get it done mindset._
 
 ## Experience
 > **_Remote Software Developer_** <br />
