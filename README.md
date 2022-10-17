@@ -1,8 +1,8 @@
-## Software Engineer at Cell 5
+## Software Developer at Cell 5
 > _Experienced Software Engineer with demonstrated history of working in NodeJS Software Development. Also have basic knowledge in Python and C++. Willing to learn old and new technologies with a strong get it done mindset._
 
 ## Experience
-> **_Software Engineer_** <br />
+> **_Software Developer_** <br />
 > _Cell 5_ <br />
 > _2022/10/17 - Present_
 
