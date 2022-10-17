@@ -6,7 +6,7 @@
 > _Cell 5_ <br />
 > _2022/10/17 - Present_
 
-> **_Web Developer_** <br />
+> **_Full Stack Developer_** <br />
 > _Sun Asterisk Philippines_ <br />
 > _2021/07/16 - 2022/09/15_
 
