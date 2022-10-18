@@ -1,20 +1,5 @@
-## Software Engineer at Cell 5
-> _Experienced Software Engineer with demonstrated history of working in NodeJS Software Development. Also have working knowledge in Python and C++. Willing to learn old and new technologies with a strong get it done mindset._
-
-## Experience
-> **_Software Engineer_** <br />
-> _Cell 5_ <br />
-> _2022/10/17 - Present_
-
-> **_Full Stack Developer_** <br />
-> _Sun Asterisk Philippines_ <br />
-> _2021/07/16 - 2022/09/15_
-
-## Education
-> **_Bachelor of Science in Industrial Engineering_** <br />
-> _Visayas State University - Isabel_ <br />
-> _College Level, Completed 210 Units_ <br />
-> _2013/06/02 - 2018/06/04_
+## Remote Software Developer at Cell 5
+> _A Software Developer with demonstrated history of working in NodeJS Software Engineering. Also have working knowledge in MySQL, PostgreSQL, Python, C++, Git, Bash, and Ubuntu. Willing to learn different technologies with a strong get it done mindset._
 
 ## Certificate
 <details>
@@ -86,16 +71,3 @@ https://www.sololearn.com/certificates/CT-OZUWDTZB
 <summary><i><b>Sololearn HTML</b></i>, 2021/02/23</summary>
 https://www.sololearn.com/certificates/CT-MKBL8ITD
 </details>
-
-## Recognition
-> [**_MVP of the Month_**](https://drive.google.com/file/d/1WyKKVrJi48XCmbakvXTDLkKrbKq5DCbt/view?usp=sharing) <br />
-> _Sun Asterisk Philippines_ <br />
-> _May 31, 2022_ <br />
-
-> [**_MVP of the Month_**](https://drive.google.com/file/d/1_h991-mq964JwTuy9AIjDhuaC_mLOtd8/view?usp=sharing) <br />
-> _Sun Asterisk Philippines_ <br />
-> _January 31, 2022_ <br />
-
-> [**_Best Effort of the Month_**](https://drive.google.com/file/d/1eAUAjS90T_2Z-OLYWnuSWSEhSf9Zxxpd/view?usp=sharing) <br />
-> _Sun Asterisk Philippines_ <br />
-> _January 10, 2022_ <br />
