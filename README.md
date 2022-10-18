@@ -1,7 +1,8 @@
 ## Remote Software Developer at Cell 5
 > _A Software Developer with demonstrated history of working in NodeJS Software Engineering. Also have working knowledge in MySQL, PostgreSQL, Python, C++, Git, Bash, and Ubuntu. Willing to learn different technologies with a strong get it done mindset._
 
-## Certificate
+<br />
+
 <details>
 <summary><i><b>FreeCodeCamp JavaScript Algorithms and Data Structures</b></i>, 2022/08/03</summary>
 https://www.freecodecamp.org/certification/kentlouisetonino/javascript-algorithms-and-data-structures
