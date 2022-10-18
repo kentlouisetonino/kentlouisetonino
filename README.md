@@ -1,5 +1,5 @@
 ## Remote Software Developer at Cell 5
-> _Experienced Software Developer with demonstrated history of working in NodeJS Software Engineering. Also have basic working knowledge in MySQL, PostgreSQL, Python, C++, Git, Bash, and Ubuntu. A Developer willing to learn different technologies with a strong get it done mindset._
+> _A Software Developer with demonstrated history of working in NodeJS Software Engineering. Also have basic working knowledge in MySQL, PostgreSQL, Python, C++, Git, Bash, and Ubuntu. A Developer willing to learn different technologies with a strong get it done mindset._
 
 <br />
 
