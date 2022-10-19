@@ -1,4 +1,5 @@
-[![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69438999/196654865-7021d2e7-0070-49dd-a3b0-407206823857.png)](https://www.linkedin.com/in/kentlouisegtonino/) [![academia-edu](https://user-images.githubusercontent.com/69438999/196661264-e7c6781f-14de-41d6-aee3-65ebf7cf1afb.png)](https://independent.academia.edu/kentlouisegtonino)
+[![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69438999/196654865-7021d2e7-0070-49dd-a3b0-407206823857.png)](https://www.linkedin.com/in/kentlouisegtonino/) &nbsp;&nbsp;&nbsp;&nbsp; [![academia-edu](https://user-images.githubusercontent.com/69438999/196661598-cf639d32-5bce-43ec-a6e2-044f6b3dfeb9.png)](https://independent.academia.edu/kentlouisegtonino)
+
 
 
 # Remote Software Developer at Cell 5
