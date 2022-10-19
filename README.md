@@ -1,4 +1,5 @@
-[![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69438999/196654865-7021d2e7-0070-49dd-a3b0-407206823857.png)](https://www.linkedin.com/in/kentlouisegtonino/)
+[![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69438999/196654865-7021d2e7-0070-49dd-a3b0-407206823857.png)](https://www.linkedin.com/in/kentlouisegtonino/) [![academia-edu](https://user-images.githubusercontent.com/69438999/196661264-e7c6781f-14de-41d6-aee3-65ebf7cf1afb.png)](https://independent.academia.edu/kentlouisegtonino)
+
 
 # Remote Software Developer at Cell 5
 > _Experienced Software Developer with demonstrated history of working in NodeJS Software Engineering. Also have basic working knowledge in MySQL, PostgreSQL, Python, C++, Git, Bash, and Ubuntu. A Developer willing to learn different technologies with a strong get it done mindset._
