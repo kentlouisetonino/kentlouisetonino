@@ -1,6 +1,6 @@
 [![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69438999/196654865-7021d2e7-0070-49dd-a3b0-407206823857.png)](https://www.linkedin.com/in/kentlouisegtonino/) &nbsp;&nbsp;&nbsp;&nbsp; [![academia-edu](https://user-images.githubusercontent.com/69438999/196661598-cf639d32-5bce-43ec-a6e2-044f6b3dfeb9.png)](https://independent.academia.edu/kentlouisegtonino)
 
-### Software Developer
+## Software Developer
 > _Experienced Software Developer with demonstrated history of working in NodeJS Software Engineering. Also have basic working knowledge in MySQL, PostgreSQL, Python, C++, Git, Bash, and Ubuntu. A Developer willing to learn different technologies with a strong get it done mindset._
 
 <br />
