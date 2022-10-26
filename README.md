@@ -1,6 +1,6 @@
 [![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69438999/196654865-7021d2e7-0070-49dd-a3b0-407206823857.png)](https://www.linkedin.com/in/kentlouisegtonino/) &nbsp;&nbsp;&nbsp;&nbsp; [![academia-edu](https://user-images.githubusercontent.com/69438999/196661598-cf639d32-5bce-43ec-a6e2-044f6b3dfeb9.png)](https://independent.academia.edu/kentlouisegtonino)
 
-## Student | Developer
+## Student | Programmer
 > Experienced Computer Programmer with a demonstrated history of working in NodeJS Software Engineering. I also have working knowledge of SQL, NoSQL, Git, Bash, and Ubuntu. For now, I'm currently learning Python and Machine Learning to understand how this will be used in building cool stuff and also to have some hobbies outside my work.
 
 <br />
