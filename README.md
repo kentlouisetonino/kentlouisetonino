@@ -1,10 +1,3 @@
-[![linkedin_icon-icons com_53609](https://user-images.githubusercontent.com/69438999/196654865-7021d2e7-0070-49dd-a3b0-407206823857.png)](https://www.linkedin.com/in/kentlouisegtonino/) &nbsp;&nbsp;&nbsp;&nbsp; [![academia-edu](https://user-images.githubusercontent.com/69438999/196661598-cf639d32-5bce-43ec-a6e2-044f6b3dfeb9.png)](https://independent.academia.edu/kentlouisegtonino)
-
-## Student | Programmer
-> Experienced Computer Programmer with demonstrated history of working in Web Application Development. Skilled in REST APIs, GraphQL, JavaScript, TypeScript, NodeJS, SQL, NoSQL, Git, Bash, and Ubuntu. For now, I'm currently learning Python and Machine Learning to understand how it works.
-
-<br />
-
 <details>
 <summary>FreeCodeCamp JavaScript Algorithms and Data Structures, 2022/08/03</summary>
 https://www.freecodecamp.org/certification/kentlouisetonino/javascript-algorithms-and-data-structures
