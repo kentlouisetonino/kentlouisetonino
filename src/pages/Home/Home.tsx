@@ -1,9 +1,10 @@
 import Navbar from '@/src/libs/Navbar/Navbar';
 import TitleText from '@/src/libs/TitleText/TitleText';
+import { Fragment } from 'react';
 
 export default function Home() {
   return (
-    <div>
+    <Fragment>
       <Navbar />
       <div className="lg:w-[640px] mx-auto py-40 text-center">
         <TitleText
@@ -16,6 +17,6 @@ export default function Home() {
           Development.
         </p>
       </div>
-    </div>
+    </Fragment>
   );
 }
