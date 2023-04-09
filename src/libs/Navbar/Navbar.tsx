@@ -3,7 +3,7 @@ import TitleText from '../TitleText/TitleText';
 
 export default function Navbar() {
   return (
-    <div className="py-4 px-52 flex justify-between border-green-500 border-dashed border-b-[0.5px]">
+    <div className="lg:w-[1008px] p-4 mx-auto flex justify-between border-green-500 border-dashed border-b-[0.5px] opacity-90">
       <div className="motion-safe:animate-pulse">
         <Link href="/">
           <TitleText
