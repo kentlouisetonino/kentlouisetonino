@@ -20,6 +20,11 @@ export default function Navbar() {
         </Link>
         <Link href="#">
           <ul className="leading-[30px] p-[2px] text-white/80 hover:underline hover:text-white underline-offset-8 hover:decoration-green-500">
+            Project
+          </ul>
+        </Link>
+        <Link href="#">
+          <ul className="leading-[30px] p-[2px] text-white/80 hover:underline hover:text-white underline-offset-8 hover:decoration-green-500">
             Blog
           </ul>
         </Link>
