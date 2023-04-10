@@ -1,7 +1,3 @@
-> Hello, I am **Computer Programmer** with industry experience in Web Application Development.
-
-<br />
-
 ![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=kentlouisetonino&hide=contribs,issues&theme=dark)
 
 ![Kent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kentlouisetonino&theme=dark)
