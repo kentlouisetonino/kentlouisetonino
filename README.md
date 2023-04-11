@@ -7,3 +7,5 @@
 <br />
 
 ![Kent's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=kentlouisetonino&theme=dark)
+
+![Kent's Github Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kentlouisetonino&theme=react-dark)
