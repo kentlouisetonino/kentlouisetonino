@@ -1,4 +1,4 @@
-> Hello, I'm a Computer Programmer with industry experience in Web Application Development.
+> Hello, I'm a Filipino Computer Programmer with industry experience in Web Application Development.
 
 <br />
 
