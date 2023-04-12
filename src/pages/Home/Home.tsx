@@ -13,8 +13,8 @@ export default function Home() {
           className="text-white/90 font-black block"
         />
         <p className="italic text-white/90">
-          I am Computer Programmer with industry experience in Web Application
-          Development.
+          I&#39;m Computer Programmer with industry experience in Web
+          Application Development.
         </p>
       </div>
     </Fragment>
