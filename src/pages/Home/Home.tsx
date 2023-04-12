@@ -13,9 +13,19 @@ export default function Home() {
           className="text-white/90 font-black block"
         />
         <p className="italic text-white/90">
-          I am Computer Programmer with industry experience in Web Application
-          Development.
+          I&#39;m Computer Programmer with industry experience in Web
+          Application Development.
         </p>
+      </div>
+      <div className="fixed inset-x-0 bottom-0 lg:w-[1008px] p-4 mx-auto flex justify-between border-green-500 border-dashed border-t-[0.5px] opacity-90">
+        {/* address */}
+        <div>
+          <p>Address: Cebu, Central Visayas, Philippines 6014</p>
+          <p>Email: tonino.kentlouise@gmail.com</p>
+          <p>Contact: +63-975-902-4002</p>
+        </div>
+        {/* icons */}
+        <div></div>
       </div>
     </Fragment>
   );
