@@ -1,8 +1,8 @@
 import classNames from 'classnames';
 
-export type Size = 'large' | 'small' | 'xsmall' | 'xlarge';
+type Size = 'large' | 'small' | 'xsmall' | 'xlarge';
 
-export interface TitleTextProps {
+interface TitleTextProps {
   size?: Size;
   value: string;
   className?: string;
