@@ -22,7 +22,7 @@ export default function Home() {
       </div>
 
       {/* footer */}
-      <div className="fixed inset-x-0 bottom-0 p-4 mx-auto border-green-500 border-dashed border-t-[0.5px] opacity-90">
+      <div className="p-4 border-green-500 border-dashed border-t-[0.5px] opacity-90">
         <p className="w-full text-center">
           &copy; 2023 Copyright. Developed by Kent Louise Tonino
         </p>
