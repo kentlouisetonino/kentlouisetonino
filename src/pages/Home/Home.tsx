@@ -9,7 +9,7 @@ export default function Home() {
       <Navbar />
 
       {/* banner */}
-      <div className="lg:w-[640px] mx-auto py-40 text-center">
+      <div className="lg:w-[640px] mx-auto my-96 align-middle text-center">
         <TitleText
           value="HELLO!"
           size="xlarge"

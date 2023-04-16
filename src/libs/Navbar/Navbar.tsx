@@ -13,22 +13,22 @@ export default function Navbar() {
         </Link>
       </div>
       <div className="flex gap-x-4">
-        <Link href="#">
+        <Link href="#resume">
           <ul className="leading-[30px] p-[2px] text-white/80 hover:underline hover:text-white underline-offset-8 hover:decoration-green-500">
             Resume
           </ul>
         </Link>
-        <Link href="#">
+        <Link href="#project">
           <ul className="leading-[30px] p-[2px] text-white/80 hover:underline hover:text-white underline-offset-8 hover:decoration-green-500">
             Project
           </ul>
         </Link>
-        <Link href="#">
+        <Link href="#blog">
           <ul className="leading-[30px] p-[2px] text-white/80 hover:underline hover:text-white underline-offset-8 hover:decoration-green-500">
             Blog
           </ul>
         </Link>
-        <Link href="#">
+        <Link href="#contact">
           <ul className="leading-[30px] p-[2px] text-white/80 hover:underline hover:text-white underline-offset-8 hover:decoration-green-500">
             Contact
           </ul>
