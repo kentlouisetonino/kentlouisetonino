@@ -19,11 +19,11 @@
 
 ## Experience
 > _**Software Engineer** (Full Stack)_ <br />
-> Cell 5 <br />
+> Cell 5 (Single Project) <br />
 > October 17, 2022 - Present
 
-> _**Junior Web Developer** (Full Stack)_ <br />
-> Sun Asterisk Philippines <br />
+> _**Junior Web Developer** (Backend | Full Stack)_ <br />
+> Sun Asterisk Philippines (Multiple Project) <br />
 > July 16, 2021 - September 15, 2022
 
 <br />
