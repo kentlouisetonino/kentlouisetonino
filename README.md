@@ -10,3 +10,7 @@
 </p>
 
 <br />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kentlouisetonino&theme=react-dark" alt="Kent's Github Activity" />
+</p>
