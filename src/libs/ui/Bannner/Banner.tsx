@@ -13,7 +13,7 @@ export default function Banner() {
       />
       <p className="italic text-white/90">
         I&#39;m a Backend Developer with over 2 years of experience in the
-        industry.
+        software industry.
       </p>
     </div>
   );
