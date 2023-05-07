@@ -9,7 +9,7 @@ export default function Banner() {
       className="lg:w-[640px] mx-auto flex align-middle items-center"
       style={{ height: `calc(100vh - ${navbarHeight} - ${footerHeight})` }}
     >
-      <div className="text-center w-full">
+      <div className="text-center w-full space-y-2">
         <TitleText
           value="HELLO!"
           size="xlarge"
