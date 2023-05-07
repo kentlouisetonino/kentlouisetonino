@@ -12,3 +12,9 @@
   background-color: black;
   color: white;
 }
+
+@media only screen and (max-width: 640px) {
+  #footer {
+    width: 100%;
+  }
+}
