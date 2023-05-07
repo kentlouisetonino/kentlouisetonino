@@ -9,7 +9,7 @@ export default function Banner() {
       <TitleText
         value="HELLO!"
         size="xlarge"
-        className="text-white/90 font-black block"
+        className="text-white/90 font-black"
       />
       <p className="italic text-white/90">
         I&#39;m a Backend Developer with over 2 years of experience in the
