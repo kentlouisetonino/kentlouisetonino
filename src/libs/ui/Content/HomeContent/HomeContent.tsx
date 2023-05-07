@@ -1,9 +1,9 @@
-import TitleText from '../TitleText/TitleText';
+import TitleText from '../../TitleText/TitleText';
 
 const navbarHeight = '67px';
 const footerHeight = '57px';
 
-export default function Banner() {
+export default function HomeContent() {
   return (
     <div
       className="lg:w-[640px] mx-auto flex align-middle items-center"
