@@ -1,4 +1,4 @@
-> Hello, I'm a Software Developer with over 2 years of experience in NodeJS Application Development.
+> Hello, I'm a Software Engineer with over 2 years of experience in NodeJS Application Development.
 
 <br />
 
