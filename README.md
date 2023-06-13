@@ -1,3 +1,6 @@
-## Description
-> - A simple personal and stupid portfolio.
+> A Software Developer with over 2 years of experience in software industry.
+
+<br />
+<br />
+<br />
 
