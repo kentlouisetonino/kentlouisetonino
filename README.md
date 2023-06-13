@@ -17,7 +17,7 @@
 
 ## Education
 > _**Bachelor of Science, Computer Engineering**_ <br />
-> AMA University OED <br />
+> AMA University <br />
 > Quezon City, Philippines <br />
 > April 2023 - Present
 
