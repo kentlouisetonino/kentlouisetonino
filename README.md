@@ -1,4 +1,6 @@
-> A Software Developer with over 2 years of experience in software industry.
+> A Software Developer with industry experience in Web Application Development.
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kentlouisetonino&theme=merko)
 
 <br />
 
