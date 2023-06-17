@@ -1,6 +1,10 @@
 > A Software Developer with industry experience in Web Application Development.
 
+<br />
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kentlouisetonino&theme=merko)
+
+![Kent Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kentlouisetonino&theme=high-contrast)
 
 <br />
 
