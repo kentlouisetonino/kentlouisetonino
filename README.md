@@ -2,7 +2,7 @@
 
 <br />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kentlouisetonino&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kentlouisetonino&theme=android-dark)
 
 ![Kent Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kentlouisetonino&theme=high-contrast)
 
