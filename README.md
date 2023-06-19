@@ -1,4 +1,4 @@
-> A Software Developer with industry experience in Web Application Development.
+<p align="center">Software Developer</p>
 
 <br />
 
