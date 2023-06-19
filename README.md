@@ -1,4 +1,4 @@
-<p align="center">Software Developer</p>
+<p align="center">Nihilist | Tinkerer | Software Developer</p>
 
 <br />
 
