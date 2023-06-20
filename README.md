@@ -1,4 +1,4 @@
-_<p align="center">NodeJS | Software Developer</p>_
+_<p align="center">ReactJS | TypeScript | NodeJS | Backend Developer</p>_
 
 <br />
 
