@@ -23,6 +23,6 @@ _<p align="center">ReactJS | TypeScript | NodeJS | Backend Developer</p>_
 
 ## Education
 > _**Bachelor of Science, Computer Engineering**_ <br />
-> AMA University Online Education <br />
+> AMA University <br />
 > Quezon City, Philippines <br />
 > April 2023 - Present
