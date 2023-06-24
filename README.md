@@ -1,6 +1,5 @@
 _<p align="center">TypeScript | NodeJS | Backend Developer</p>_
 
-<br />
 
 ## Experience
 > _**Software Engineer**_ <br />
