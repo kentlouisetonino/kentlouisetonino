@@ -1,1 +1,1 @@
-_<p align="center">TypeScript | NodeJS | Backend | Programmer</p>_
+_<p align="center">TypeScript | NodeJS | Backend Developer</p>_
