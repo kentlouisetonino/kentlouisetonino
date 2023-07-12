@@ -1,1 +1,1 @@
-_<p align="center">Student | Computer Programmer</p>_
+_<p align="center">TypeScript | NodeJS | Backend</p>_
