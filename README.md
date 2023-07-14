@@ -1,1 +1,1 @@
-_<p align="center">Student | Software Developer</p>_
+_<p align="center">Software Developer</p>_
