@@ -1,1 +1,1 @@
-_<p align="center">TypeScript | NodeJS | APIs | Backend</p>_
+_<p align="center">TypeScript | NodeJS | APIs | Backend | CLI</p>_
