@@ -1,1 +1,1 @@
-_<p  align="center"><code>if (!dead) code</code></p>_
+_<p  align="center"><code>if (!dead) code();</code></p>_
