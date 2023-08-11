@@ -1,7 +1,6 @@
 _<p  align="center"><code>if (!dead) code();</code></p>_
 
 <br />
-<br />
 
 ## Hello
 
