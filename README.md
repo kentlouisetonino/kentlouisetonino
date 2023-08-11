@@ -1,4 +1,4 @@
-_<p  align="center"><code>if (!dead) build();</code></p>_
+_<p  align="center"><code>if (!dead) tinker();</code></p>_
 
 <br />
 
