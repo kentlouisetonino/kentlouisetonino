@@ -1,7 +1,3 @@
-_<p  align="center"><code>if (!dead) tinker();</code></p>_
-
-<br />
-
 ## [ `Greetings` ]
 
 Hello. I'm [Kent](https://github.com/kentlouisetonino), a `Computer Programmer` from the Philippines.
