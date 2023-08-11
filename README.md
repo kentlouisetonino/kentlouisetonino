@@ -12,5 +12,5 @@ I'm [Kent](https://github.com/kentlouisetonino), a `Computer Programmer` from th
 ## About Me
 
 - 🔧 I’m currently working as a `Software Engineer` at Cell 5 Limited.
-- 🧠 I'm currently learning `Go`, `APIs`, `Backend`, `Firebase`, and `Google Cloud Platform`.
+- 🧠 I'm currently learning `Go`, `Firebase`, and `Google Cloud Platform`.
 - 👨‍🎓 Aside from working, I also go back to school to study `B.S. in Computer Engineering` at AMA University OED.
