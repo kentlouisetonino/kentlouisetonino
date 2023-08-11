@@ -5,7 +5,7 @@ _<p  align="center"><code>if (!dead) code();</code></p>_
 
 ## Hello
 
-I'm [Kent](https://github.com/kentlouisetonino), a `Backend` `Computer Programmer` from the Philippines.
+I'm [Kent](https://github.com/kentlouisetonino), a `Backend Developer` from the Philippines.
 
 <br />
 
