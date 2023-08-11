@@ -4,7 +4,7 @@ _<p  align="center"><code>if (!dead) code();</code></p>_
 
 ## [ `Greetings` ]
 
-I'm [Kent](https://github.com/kentlouisetonino), a `Computer Programmer` from the Philippines with over 2-years of industry experience in `WebApp Software Engineering`.
+I'm [Kent](https://github.com/kentlouisetonino), a `Computer Programmer` from the Philippines.
 
 <br />
 
