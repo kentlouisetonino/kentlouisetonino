@@ -4,7 +4,7 @@ _<p  align="center"><code>if (!dead) code();</code></p>_
 
 ## [ `Greetings` ]
 
-I'm [Kent](https://github.com/kentlouisetonino), a `Computer Programmer` from the Philippines.
+Hello. I'm [Kent](https://github.com/kentlouisetonino), a `Computer Programmer` from the Philippines.
 
 <br />
 
