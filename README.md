@@ -1,6 +1,6 @@
 ## [ `Hello` ]
 
-I'm [Kent](https://github.com/kentlouisetonino), a `Software Developer` from the Philippines.
+I'm [Kent](https://github.com/kentlouisetonino), a `Backend Developer` from the Philippines.
 
 <br />
 
