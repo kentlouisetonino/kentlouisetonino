@@ -9,4 +9,4 @@ I'm [Kent](https://github.com/kentlouisetonino), a `Computer Programmer` from th
 - 🔧 I’m currently working as a `Software Engineer` at Cell 5 Limited.
 - 🎯 I'm currently learning `Go`, `Firebase`, and `GCP`.
 - 🧠 My current specialties are `TypeScript`, `NodeJS`, `APIs`, and `Backend`.
-- 👍 Most of my interest are in `Backend`, `CLI`, and `Cloud` (still learning).
+- 👍 Most of my interest are in `Backend`, `CLI`, and `Cloud Computing` (still learning).
