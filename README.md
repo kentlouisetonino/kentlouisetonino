@@ -5,7 +5,6 @@
 > - 👍 Most of my interest are in Backend, CLI, Cloud Computing, and Hardware Engineering.
 
 <br />
-<br />
 
 ### [ `Experience` ]
 > **Software Engineer** <br />
@@ -20,7 +19,6 @@
 > Cebu, Philippines <br />
 > July 2021 - September 2022
 
-<br />
 <br />
 
 ### [ `Education` ]
