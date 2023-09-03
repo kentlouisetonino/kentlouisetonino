@@ -1,4 +1,4 @@
-## [ `Hello` ]
+### [ `Hello` ]
 > I'm [Kent](https://github.com/kentlouisetonino), a Computer Programmer from the Philippines.
 > - I'm currently learning Go, Firebase, and GCP.
 > - My current industry specialties are TypeScript, NodeJS, APIs, and Backend.
@@ -6,7 +6,7 @@
 <br />
 <br />
 
-## [ `Experience` ]
+### [ `Experience` ]
 > **Software Engineer** <br />
 > Cell 5 Limited <br />
 > London, England <br />
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-##  [ `Education` ]
+### [ `Education` ]
 > **Bachelor of Science, Computer Engineering** <br />
 > AMA University OEd <br />
 > Metro Manila, Philippines <br />
