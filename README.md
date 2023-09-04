@@ -1,5 +1,5 @@
 ### [ `Hello` ]
-> I'm [Kent](https://github.com/kentlouisetonino), a Computer Programmer from the Philippines.
+> I'm Kent, a Computer Programmer from the Philippines.
 
 <br />
 
