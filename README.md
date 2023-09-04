@@ -1,7 +1,7 @@
 ### [ `Hello` ]
 > I'm [Kent](https://github.com/kentlouisetonino), a Computer Programmer from the Philippines.
 > - 🎯 I'm currently learning Go, Firebase, and GCP.
-> - 🧠 My current industry specialties are TypeScript, NodeJS, APIs, and Backend.
+> - 🧠 My current industry specialties are TypeScript, NodeJS, APIs, Backend, SQL/NoSQL Database.
 > - 👍 Most of my interest are in Backend, CLI, Cloud Computing, and Hardware Engineering.
 
 <br />
