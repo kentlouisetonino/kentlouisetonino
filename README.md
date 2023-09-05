@@ -1,5 +1,4 @@
-### [ `Hello` ]
-> I'm Kent, a Computer Programmer from the Philippines.
+[![GitHub Streak](https://github-readme-streak-stats-rosy.vercel.app?user=kentlouisetonino&theme=dark&hide_border=true&border_radius=6&card_width=600)](https://git.io/streak-stats)
 
 <br />
 
