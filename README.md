@@ -1,4 +1,4 @@
-![Kent's GitHub Streak](https://github-readme-streak-stats-rosy.vercel.app?user=kentlouisetonino&theme=dark&hide_border=true&border_radius=6&card_width=846&hide_current_streak=true)
+![GitHub Streak](https://github-readme-streak-stats-rosy.vercel.app?user=kentlouisetonino&theme=shadow-green&hide_border=true&card_width=846&hide_current_streak=true)
 
 <br />
 
