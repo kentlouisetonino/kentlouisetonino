@@ -19,6 +19,6 @@
 
 ### [ `Education` ]
 > **Bachelor of Science, Computer Engineering** <br />
-> AMA University OEd <br />
+> AMA University <br />
 > Metro Manila, Philippines <br />
 > April 2023 - Present
