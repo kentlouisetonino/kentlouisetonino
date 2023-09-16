@@ -7,6 +7,7 @@
 > **Frontend** : React | Next | Redux Toolkit <br />
 > **Backend** : Rest APIs | GraphQL | Express | Nest | Node | Bun | Gin <br />
 > **Database** : MySQL | Cloud Firestore | MongoDB <br />
+> **Cloud** : Vercel | Firebase <br />
 > **Other** : Bash | Git | Docker | Snapcraft | GNU/Linux
 
 <br />
