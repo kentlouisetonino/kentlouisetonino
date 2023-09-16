@@ -2,6 +2,15 @@
 
 <br />
 
+`SKILLS`
+> **Programming Language** : JavaScript | TypeScript | Go | C <br />
+> **Frontend** : React | Next | Redux Toolkit <br />
+> **Backend** : Rest APIs | GraphQL | Express | Nest | Node | Bun <br />
+> **Database** : MySQL | Cloud Firestore | MongoDB <br />
+> **Other** : Bash | Git | Docker | Snapcraft | GNU/Linux
+
+<br />
+
 `EXPERIENCE`
 > _Software Engineer_ <br />
 > Cell 5 Limited <br />
