@@ -5,7 +5,7 @@
 `SKILLS`
 > **Programming Language** : JavaScript | TypeScript | Go | C <br />
 > **Frontend** : React | Next | Redux Toolkit <br />
-> **Backend** : Rest APIs | GraphQL | Express | Nest | Node | Bun <br />
+> **Backend** : Rest APIs | GraphQL | Express | Nest | Node | Bun | Gin <br />
 > **Database** : MySQL | Cloud Firestore | MongoDB <br />
 > **Other** : Bash | Git | Docker | Snapcraft | GNU/Linux
 
