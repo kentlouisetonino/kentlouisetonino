@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-<i>Learning, tinkering, and building different stuff while waiting death.</i>
+<i>Learning, tinkering, and building stuff while waiting death.</i>
 </p>
 
 <br />
