@@ -10,6 +10,6 @@
 
 ### `Education`
 > **Bachelor of Science, Computer Engineering** <br />
-> AMA University (Fully Online) <br />
+> AMA University <br />
 > Quezon City, Metro Manila <br />
 > April 03, 2023 - Present
