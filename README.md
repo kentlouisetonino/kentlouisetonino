@@ -2,7 +2,7 @@
 
 <br />
 
-### `Experience`
+`Experience`
 > **Software Engineer** <br />
 > Cell 5 Limited <br />
 > London. England <br />
@@ -10,7 +10,7 @@
 
 <br />
 
-### `Education`
+`Education`
 > **Bachelor of Science, Computer Engineering** <br />
 > AMA University OEd <br />
 > Quezon City, Metro Manila <br />
