@@ -5,12 +5,18 @@
 `Experience`
 > **Software Engineer** <br />
 > Cell 5 Limited <br />
-> London. England <br />
-> October 17, 2022 - Present
+> London, England <br />
+> October 2022 - Present
+<br />
+
+> **Junior Web Developer** <br />
+> Sun Asterisk Software Development, Inc. <br />
+> Cebu, Philippines <br />
+> July 2021 - September 2021
 <br />
 
 `Education`
 > **Bachelor of Science, Computer Engineering** <br />
 > AMA University OEd <br />
 > Quezon City, Metro Manila <br />
-> April 03, 2023 - Present
+> April 2023 - Present
