@@ -16,11 +16,6 @@
 > London, England <br />
 > October 2022 - Present
 
-> _J**unior Web Developer**_ <br />
-> Sun Asterisk Software Development, Inc. <br />
-> Cebu, Philippines <br />
-> July 2021 - September 2022
-
 <br />
 
 ### `Education`
@@ -28,8 +23,3 @@
 > AMA University OEd <br />
 > Quezon City, Metro Manila, Philippines <br />
 > April 2023 - Present
-
-> _**Bachelor of Science, Industrial Engineering**_ <br />
-> Visayas State University - Isabel <br />
-> Isabel, Leyte, Philippines <br />
-> June 2013 - July 2018
