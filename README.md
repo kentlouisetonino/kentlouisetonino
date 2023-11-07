@@ -8,6 +8,7 @@
 > NPM | https://npmjs.com/~kentlouisetonino <br />
 > Youtube | https://www.youtube.com/@kentlouisetonino
 
+<br />
 
 ### `Experience`
 > _**Software Engineer**_ <br />
@@ -20,9 +21,15 @@
 > Cebu, Philippines <br />
 > July 2021 - September 2022
 
+<br />
 
 ### `Education`
 > _**Bachelor of Science, Computer Engineering**_ <br />
 > AMA University OEd <br />
-> Quezon City, Metro Manila <br />
+> Quezon City, Metro Manila, Philippines <br />
 > April 2023 - Present
+
+> _**Bachelor of Science, Industrial Engineering**_ <br />
+> Visayas State University - Isabel <br />
+> Isabel, Leyte, Philippines <br />
+> June 2013 - July 2018
