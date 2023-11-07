@@ -19,3 +19,10 @@
 > Sun Asterisk Software Development, Inc. <br />
 > Cebu, Philippines <br />
 > July 2021 - September 2022
+
+
+### `Education`
+> _**Bachelor of Science, Computer Engineering**_ <br />
+> AMA University OEd <br />
+> Quezon City, Metro Manila <br />
+> April 2023 - Present
