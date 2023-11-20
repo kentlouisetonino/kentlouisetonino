@@ -7,4 +7,4 @@
 > Snapcraft | https://snapcraft.io/publisher/kentlouisetonino <br />
 > NPM | https://npmjs.com/~kentlouisetonino <br />
 > Github Gists | https://gist.github.com/kentlouisetonino <br />
-> Biodata | https://kentlouisetonino.github.io/biodata/
+> Biographical Data | https://kentlouisetonino.github.io/biodata/
