@@ -15,6 +15,7 @@
 > Cell 5 Limited <br />
 > London, England <br />
 > October 2022 - Present
+
 > _**Junior Web Developer**_ <br />
 > Sun Asterisk Software Development, Inc. <br />
 > Cebu, Philippines <br />
