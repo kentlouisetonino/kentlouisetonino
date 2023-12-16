@@ -4,8 +4,6 @@
 > NPM | https://npmjs.com/~kentlouisetonino <br />
 > Github Gists | https://gist.github.com/kentlouisetonino 
 
-<br />
-
 ### `Experience`
 > _**Software Engineer**_ <br />
 > Cell 5 Limited <br />
@@ -16,8 +14,6 @@
 > Sun Asterisk Software Development, Inc. <br />
 > Cebu, Philippines <br />
 > July 2021 - September 2022
- 
-<br />
 
 ### `Education`
 > _**Bachelor of Science, Computer Engineering**_ <br />
