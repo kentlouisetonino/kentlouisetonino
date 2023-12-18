@@ -6,7 +6,7 @@
 > Youtube | https://www.youtube.com/@kentlouisetonino
 
 ### `Skill`
-> TypeScript, Node.js, Go, SQL, NoSQL, Backend, CLI, GNU/Linux
+> Go, TypeScript, Node.js, SQL, NoSQL, Backend, CLI, GNU/Linux
 
 ### `Experience`
 > _**Software Engineer**_ <br />
