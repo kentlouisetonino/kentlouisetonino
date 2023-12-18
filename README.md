@@ -1,12 +1,12 @@
-### `Skill`
-> TypeScript, Node.js, Go, SQL, NoSQL, Backend, CLI, GNU/Linux System
-
 ### `Account`
 > Linkedin | https://www.linkedin.com/in/kentlouisetonino/ <br />
 > Snapcraft | https://snapcraft.io/publisher/kentlouisetonino <br />
 > NPM | https://npmjs.com/~kentlouisetonino <br />
 > Gists | https://gist.github.com/kentlouisetonino <br />
 > Youtube | https://www.youtube.com/@kentlouisetonino
+
+### `Skill`
+> TypeScript, Node.js, Go, SQL, NoSQL, Backend, CLI, GNU/Linux System
 
 ### `Experience`
 > _**Software Engineer**_ <br />
