@@ -1,5 +1,5 @@
 ### `Skill`
-> TypeScript, Node.js, Go, Backend, CLI, GNU/Linux System
+> TypeScript, Node.js, Go, SQL, NoSQL, Backend, CLI, GNU/Linux System
 
 ### `Account`
 > Linkedin | https://www.linkedin.com/in/kentlouisetonino/ <br />
