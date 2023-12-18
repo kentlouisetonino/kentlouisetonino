@@ -5,9 +5,6 @@
 > Gists | https://gist.github.com/kentlouisetonino <br />
 > Youtube | https://www.youtube.com/@kentlouisetonino
 
-### `Skill`
-> Go, TypeScript, Node.js, SQL, NoSQL, Backend, CLI, GNU/Linux
-
 ### `Experience`
 > _**Software Engineer**_ <br />
 > Cell 5 Limited <br />
