@@ -1,10 +1,8 @@
-<br />
-
 ``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI`` | ``GNU/Linux``
 
 <br />
 
-## Account
+## ``Account``
 ``Linkedin`` | https://www.linkedin.com/in/kentlouisetonino/ <br />
 ``Snapcraft`` | https://snapcraft.io/publisher/kentlouisetonino <br />
 ``NPM`` | https://npmjs.com/~kentlouisetonino <br />
