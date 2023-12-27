@@ -1,6 +1,6 @@
 <br />
 
-``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI``
+``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI`` | ``GNU/Linux``
 
 <br />
 
