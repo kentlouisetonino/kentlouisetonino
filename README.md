@@ -3,8 +3,11 @@
 <br />
 
 ## ``Account``
+``Github`` | https://github.com/kentlouisetonino <br />
+``Gitlab`` | https://gitlab.com/kentlouisetonino <br />
 ``Linkedin`` | https://www.linkedin.com/in/kentlouisetonino/ <br />
 ``Snapcraft`` | https://snapcraft.io/publisher/kentlouisetonino <br />
 ``NPM`` | https://npmjs.com/~kentlouisetonino <br />
 ``Gists`` | https://gist.github.com/kentlouisetonino <br />
-``Biodata`` | https://kentlouisetonino.github.io/biodata/
+``Biodata`` | https://kentlouisetonino.github.io/biodata
+
