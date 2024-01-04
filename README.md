@@ -1,4 +1,4 @@
-``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI`` | ``Snapcraft`` | ``GNU/Linux``
+``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI`` | ``Snapcraft`` | ``Linux``
 
 <br />
 
