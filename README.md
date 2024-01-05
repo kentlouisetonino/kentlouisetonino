@@ -2,6 +2,10 @@
 
 <br />
 
+[![GitHub Streak](https://github-readme-streak-stats-23ij4p21g-kentlouisetonino.vercel.app?user=kentlouisetonino&theme=transparent&hide_border=true&card_width=846)](https://git.io/streak-stats)
+
+<br />
+
 ## ``Account``
 ``Github`` | https://github.com/kentlouisetonino <br />
 ``Gitlab`` | https://gitlab.com/kentlouisetonino <br />
