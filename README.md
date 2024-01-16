@@ -7,3 +7,9 @@
 ``Snapcraft`` | https://snapcraft.io/publisher/kentlouisetonino <br />
 ``Gists`` | https://gist.github.com/kentlouisetonino
 
+<br />
+
+## Software Project
+``BaseShift`` | ``Go`` | https://github.com/kentlouisetonino/baseshift <br />
+``Aggreflow`` | ``Go`` | https://github.com/kentlouisetonino/aggreflow <br />
+
