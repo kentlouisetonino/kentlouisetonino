@@ -12,4 +12,6 @@
 ## Software Project
 ``BaseShift`` | ``Go`` | https://github.com/kentlouisetonino/baseshift <br />
 ``Aggreflow`` | ``Go`` | https://github.com/kentlouisetonino/aggreflow <br />
+``Bus Calculator`` | ``C++`` | https://github.com/kentlouisetonino/bus-calculator <br />
+``Node S3`` | ``Node.js`` | https://github.com/kentlouisetonino/node-s3 <br />
 
