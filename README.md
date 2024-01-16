@@ -10,8 +10,8 @@
 <br />
 
 ## Software Project
-``BaseShift`` | ``Go`` | https://github.com/kentlouisetonino/baseshift <br />
-``Aggreflow`` | ``Go`` | https://github.com/kentlouisetonino/aggreflow <br />
-``Bus Calculator`` | ``C++`` | https://github.com/kentlouisetonino/bus-calculator <br />
-``Node S3`` | ``Node.js`` | https://github.com/kentlouisetonino/node-s3 <br />
+``Go`` | ``BaseShift`` | https://github.com/kentlouisetonino/baseshift <br />
+``Go`` | ``Aggreflow`` | https://github.com/kentlouisetonino/aggreflow <br />
+``C++`` | ``Bus Calculator`` | https://github.com/kentlouisetonino/bus-calculator <br />
+``Node.js`` | ``Node S3`` | https://github.com/kentlouisetonino/node-s3 <br />
 
