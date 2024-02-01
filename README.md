@@ -1,7 +1,7 @@
 ``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI`` | ``Snapcraft`` | ``Linux``
 
 ##
-``Linux Foundation`` | https://openprofile.dev/profile/kentlouisetonino <br />
+``LF Profile`` | https://openprofile.dev/profile/kentlouisetonino <br />
 ``Linkedin`` | https://www.linkedin.com/in/kentlouisetonino <br />
 ``Snapcraft`` | https://snapcraft.io/publisher/kentlouisetonino <br />
 ``Gists`` | https://gist.github.com/kentlouisetonino
