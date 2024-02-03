@@ -3,6 +3,7 @@
 ##
 ``LF Profile`` | https://openprofile.dev/profile/kentlouisetonino <br />
 ``Linkedin`` | https://www.linkedin.com/in/kentlouisetonino <br />
+``Youtube`` | https://www.youtube.com/@kentlouisetonino <br />
 ``Snapcraft`` | https://snapcraft.io/publisher/kentlouisetonino <br />
 ``Gists`` | https://gist.github.com/kentlouisetonino
 
