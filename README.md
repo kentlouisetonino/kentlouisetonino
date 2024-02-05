@@ -2,7 +2,7 @@
 ``React.js`` | ``Next.js`` | ``Flutter`` <br />
 ``Express.js`` | ``Nest.js`` | ``Node.js`` | ``Go-Chi`` <br /> 
 ``MySQL`` | ``PostgreSQL`` | ``Cloud Firestore`` | ``MongoDB`` <br />
-``Git`` | ``Bash`` | ``Vercel`` | ``Firebase`` | ``Snapcraft`` | ``Docker`` | ``Linux``
+``Git`` | ``Bash`` | ``Vercel`` | ``Github`` | ``Firebase`` | ``Snapcraft`` | ``Docker`` | ``Linux``
 
 ## 
 [`LF Profile`](https://openprofile.dev/profile/kentlouisetonino) |  [`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Youtube`](https://www.youtube.com/@kentlouisetonino) | [`Resume`](https://drive.google.com/file/d/1D1ZFMrfAA-dcuUJ9oHkQIJcBV1JNRW4w/view?usp=sharing) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Gists`](https://gist.github.com/kentlouisetonino)
