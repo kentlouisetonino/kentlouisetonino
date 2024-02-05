@@ -5,7 +5,6 @@
 ### TECHNOLOGY
 ##
 ``Go`` | ``TypeScript`` | ``Javascript`` | ``Dart`` <br />
-``React.js`` | ``Next.js`` | ``Flutter`` <br />
 ``Express.js`` | ``Nest.js`` | ``Node.js`` | ``Go-Chi`` <br /> 
 ``MySQL`` | ``PostgreSQL`` | ``Cloud Firestore`` | ``MongoDB`` <br />
 ``Git`` | ``Bash`` | ``Vercel`` | ``Github`` | ``Firebase`` | ``Snapcraft`` | ``Docker`` | ``Linux``
