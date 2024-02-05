@@ -19,3 +19,10 @@
 ``Software`` | ``C++`` | ``Bus Calculator`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
 ``Software`` | ``Node.js`` | ``Node-S3`` | [`View`](https://github.com/kentlouisetonino/node-s3) <br />
 ``Software`` | ``Node.js`` | ``SongBook`` | [`View`](https://github.com/kentlouisetonino/songbook) <br />
+
+<br />
+
+### EDUCATION
+##
+``BS, Computer Engineering`` | [`AMA University`](https://www.amaes.edu.ph/ama-online-education-amaoed/) | ``04/2023 - Present`` <br />
+``High School`` | [`Doane Baptist School`](https://www.facebook.com/doanebaptistschool/) | ``06/2009 - 03/2013``
