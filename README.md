@@ -2,7 +2,7 @@
 
 <br />
 
-### Technologies
+### TECHNOLOGIES
 ##
 ``Go`` | ``TypeScript`` | ``Javascript`` | ``Dart`` <br />
 ``React.js`` | ``Next.js`` | ``Flutter`` <br />
@@ -12,10 +12,10 @@
 
 <br />
 
-### Software Project
+### PROJECTS
 ##
-``Go`` | ``BaseShift`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
-``Go`` | ``Aggreflow`` | [`View`](https://github.com/kentlouisetonino/aggreflow) <br />
-``C++`` | ``Bus Calculator`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
-``Node.js`` | ``Node-S3`` | [`View`](https://github.com/kentlouisetonino/node-s3) <br />
-``Node.js`` | ``SongBook`` | [`View`](https://github.com/kentlouisetonino/songbook) <br />
+``Software`` | ``Go`` | ``BaseShift`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
+``Software`` | ``Go`` | ``Aggreflow`` | [`View`](https://github.com/kentlouisetonino/aggreflow) <br />
+``Software`` | ``C++`` | ``Bus Calculator`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
+``Software`` | ``Node.js`` | ``Node-S3`` | [`View`](https://github.com/kentlouisetonino/node-s3) <br />
+``Software`` | ``Node.js`` | ``SongBook`` | [`View`](https://github.com/kentlouisetonino/songbook) <br />
