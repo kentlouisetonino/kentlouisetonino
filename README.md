@@ -1,16 +1,13 @@
-``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI`` | ``Snapcraft`` | ``Linux``
+``Go`` | ``TypeScript`` | ``Node.js`` | ``Backend`` | ``CLI`` | ``Snapcraft`` | ``Linux`` <br />
 
-##
-``LF Profile`` | https://openprofile.dev/profile/kentlouisetonino <br />
-``Linkedin`` | https://www.linkedin.com/in/kentlouisetonino <br />
-``Snapcraft`` | https://snapcraft.io/publisher/kentlouisetonino <br />
-``Gists`` | https://gist.github.com/kentlouisetonino
+## 
+[`LF Profile`](https://openprofile.dev/profile/kentlouisetonino) |  [`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Resume`](https://drive.google.com/file/d/1D1ZFMrfAA-dcuUJ9oHkQIJcBV1JNRW4w/view?usp=sharing) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Gists`](https://gist.github.com/kentlouisetonino)
 
 <br />
 
 ## Software Project
-``Go`` | ``BaseShift`` | https://github.com/kentlouisetonino/baseshift <br />
-``Go`` | ``Aggreflow`` | https://github.com/kentlouisetonino/aggreflow <br />
-``C++`` | ``Bus Calculator`` | https://github.com/kentlouisetonino/bus-calculator <br />
-``Node.js`` | ``Node-S3`` | https://github.com/kentlouisetonino/node-s3 <br />
-``Node.js`` | ``SongBook`` | https://github.com/kentlouisetonino/songbook <br />
+``Go`` | ``BaseShift`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
+``Go`` | ``Aggreflow`` | [`View`](https://github.com/kentlouisetonino/aggreflow) <br />
+``C++`` | ``Bus Calculator`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
+``Node.js`` | ``Node-S3`` | [`View`](https://github.com/kentlouisetonino/node-s3) <br />
+``Node.js`` | ``SongBook`` | [`View`](https://github.com/kentlouisetonino/songbook) <br />
