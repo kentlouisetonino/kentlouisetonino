@@ -25,4 +25,4 @@
 ### EDUCATION
 ##
 ``BS, Computer Engineering`` | [`AMA University`](https://www.amaes.edu.ph/ama-online-education-amaoed/) | ``04/2023 - Present`` <br />
-``Secondary School`` | [`Doane Baptist School`](https://www.facebook.com/doanebaptistschool/) | ``06/2009 - 03/2013``
+``Secondary School`` | [`Doane Baptist School`](https://drive.google.com/file/d/1-RjQ7ug_pgxH-k9-z3arDKfdoH6eFH7I/view?usp=sharing) | ``06/2009 - 03/2013``
