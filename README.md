@@ -1,4 +1,4 @@
-[`LF Profile`](https://openprofile.dev/profile/kentlouisetonino) |  [`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Youtube`](https://www.youtube.com/@kentlouisetonino) | [`Resume`](https://drive.google.com/file/d/1D1ZFMrfAA-dcuUJ9oHkQIJcBV1JNRW4w/view?usp=sharing) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Gists`](https://gist.github.com/kentlouisetonino)
+[`LF Profile`](https://openprofile.dev/profile/kentlouisetonino) |  [`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Gists`](https://gist.github.com/kentlouisetonino)
 
 <br />
 
