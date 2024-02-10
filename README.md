@@ -13,11 +13,11 @@
 
 ### PROJECT
 ##
-``Software`` | ``Go`` | ``BaseShift`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
-``Software`` | ``Go`` | ``Aggreflow`` | [`View`](https://github.com/kentlouisetonino/aggreflow) <br />
-``Software`` | ``C++`` | ``Bus Calculator`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
-``Software`` | ``Node.js`` | ``Node-S3`` | [`View`](https://github.com/kentlouisetonino/node-s3) <br />
-``Software`` | ``Node.js`` | ``SongBook`` | [`View`](https://github.com/kentlouisetonino/songbook) <br />
+``Software`` | ``Go`` | ``BaseShift`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
+``Software`` | ``Go`` | ``Aggreflow`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/aggreflow) <br />
+``Software`` | ``C++`` | ``Bus Calculator`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
+``Software`` | ``Node.js`` | ``Node-S3`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-s3) <br />
+``Software`` | ``Node.js`` | ``SongBook`` | ``Full Stack`` | [`View`](https://github.com/kentlouisetonino/songbook) <br />
 
 <br />
 
