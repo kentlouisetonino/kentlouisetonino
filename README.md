@@ -4,7 +4,7 @@
 
 ### TECHNOLOGY
 ##
-``Go/Golang`` | ``JavaScript/TypeScript`` | ``C`` <br />
+``Go/Golang`` | ``TypeScript`` | ``C`` <br />
 ``Express.js`` | ``Nest.js`` | ``Node.js`` | ``Go-Chi`` <br /> 
 ``MySQL`` | ``PostgreSQL`` | ``Cloud Firestore`` | ``MongoDB`` <br />
 ``Git`` | ``Bash`` | ``Vercel`` | ``Github`` | ``Firebase`` | ``Snapcraft`` | ``Docker`` | ``Linux``
