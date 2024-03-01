@@ -7,7 +7,8 @@
 ``Golang`` | ``TypeScript`` | ``Node.js`` | `Python` <br />
 ``Rest APIs`` | ``GraphQL`` | ``Express.js`` | ``Nest.js`` | ``Go-Chi`` <br /> 
 ``MySQL`` | ``PostgreSQL`` | ``Cloud Firestore`` | ``MongoDB`` <br />
-``Git`` | ``Bash`` | ``Vercel`` | ``Github`` | ``Firebase`` | ``Snapcraft`` | ``Docker`` | ``Linux``
+``Vercel`` | ``Github`` | ``Firebase`` <br />
+``Git`` | ``Bash`` | ``Snapcraft`` | ``Docker`` | ``Linux``
 
 <br />
 
