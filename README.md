@@ -2,16 +2,6 @@
 
 <br />
 
-### TECHNOLOGY
-##
-``Golang`` | ``TypeScript`` | ``Node.js`` | `Python` <br />
-``Rest APIs`` | ``GraphQL`` | ``Express.js`` | ``Nest.js`` | ``Go-Chi`` <br /> 
-``MySQL`` | ``PostgreSQL`` | ``Cloud Firestore`` | ``MongoDB`` <br />
-``Vercel`` | ``Github`` | ``Firebase`` <br />
-``Git`` | ``Bash`` | ``Snapcraft`` | ``Docker`` | ``Linux``
-
-<br />
-
 ### PROJECT
 ##
 ``Software`` | ``Golang`` | ``BaseShift`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
