@@ -6,8 +6,7 @@
 ##
 ``Software`` | ``Golang`` | ``BaseShift`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 ``Software`` | ``C++`` | ``Bus-Calculator`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
-``Software`` | ``Node.js`` | ``Node-Backend`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
-``Software`` | ``Node.js`` | ``SongBook`` | ``Full Stack`` | [`View`](https://github.com/kentlouisetonino/songbook) <br />
+``Software`` | ``Node.js`` | ``Node-Playground`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
 
 <br />
 
