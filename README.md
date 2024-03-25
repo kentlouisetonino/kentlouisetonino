@@ -5,7 +5,7 @@
 ### PROJECT
 ##
 ``Software`` | ``Golang`` | ``BaseShift`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
-``Software`` | ``Node.js`` | ``Node-Playground`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
+``Software`` | ``Node.js`` | ``Node-Integration`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
 ``Software`` | ``Node.js`` | ``Node-Nest`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-nest) <br />
 ``Software`` | ``C++`` | ``Bus-Calculator`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
 
