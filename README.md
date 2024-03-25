@@ -8,7 +8,6 @@
 ``Software`` | ``Node.js`` | ``Node-Integration`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
 ``Software`` | ``Node.js`` | ``Node-Nest`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-nest) <br />
 ``Software`` | ``C`` | ``WifiConnect`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/wificonnect) <br />
-``Software`` | ``C++`` | ``BusCalculator`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
 
 <br />
 
