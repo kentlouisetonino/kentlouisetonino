@@ -4,7 +4,7 @@
 
 ### PROJECT
 ##
-``Software`` | ``Go`` | ``BaseShift`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
+``Software`` | ``Golang`` | ``BaseShift`` | ``CLI`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 ``Software`` | ``Node.js`` | ``Node-Integration`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
 ``Software`` | ``Node.js`` | ``Node-Nest`` | ``Backend`` | [`View`](https://github.com/kentlouisetonino/node-nest) <br />
 
