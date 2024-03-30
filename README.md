@@ -1,4 +1,4 @@
-[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Github Gists`](https://gist.github.com/kentlouisetonino) | [`Certificates`](https://github.com/kentlouisetonino/certificates)
+[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Gists`](https://gist.github.com/kentlouisetonino) | [`Certificates`](https://github.com/kentlouisetonino/certificates)
 
 <br />
 
