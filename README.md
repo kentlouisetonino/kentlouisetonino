@@ -14,9 +14,9 @@
 ### EDUCATION
 ##
 ``BS, Computer Engineering`` <br />
-[`AMA University`](https://www.ama.edu.ph/bachelor-of-science-in-computer-engineering/) <br />
+[`AMA University OED`](https://www.ama.edu.ph/bachelor-of-science-in-computer-engineering/) <br />
 ``04/2023 - Present`` <br />
 
 ``Secondary School`` <br />
-[`Doane Baptist School`](https://drive.google.com/file/d/1-RjQ7ug_pgxH-k9-z3arDKfdoH6eFH7I/view?usp=sharing) <br />
+[`Doane Baptist School - Isabel`](https://drive.google.com/file/d/1-RjQ7ug_pgxH-k9-z3arDKfdoH6eFH7I/view?usp=sharing) <br />
 ``06/2009 - 03/2013``
