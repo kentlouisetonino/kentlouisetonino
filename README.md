@@ -14,7 +14,7 @@
 ### EDUCATION
 ##
 ``BS, Computer Engineering`` <br />
-[`AMA University OED`](https://www.ama.edu.ph/bachelor-of-science-in-computer-engineering/) <br />
+[`AMA University OEd`](https://www.ama.edu.ph/bachelor-of-science-in-computer-engineering/) <br />
 ``04/2023 - Present`` <br />
 
 ``Secondary School`` <br />
