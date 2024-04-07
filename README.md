@@ -3,8 +3,7 @@
 <br />
 
 ### PROJECT
-##
-``Hardware`` | ``Arduino`` | ``Tinkering Arduino R3`` | [`Docs`](https://github.com/kentlouisetonino/tinkering-arduino-r3) <br />
+#
 ``Software`` | ``Go`` | ``BaseShift`` | [`CLI`](https://github.com/kentlouisetonino/baseshift) <br />
 ``Software`` | ``Go`` | ``TempScale`` | [`CLI`](https://github.com/kentlouisetonino/tempscale) <br />
 ``Software`` | ``Node.js`` | ``Node-Integration`` | [`Backend`](https://github.com/kentlouisetonino/node-backend) <br />
@@ -13,7 +12,7 @@
 <br />
 
 ### EDUCATION
-##
+#
 ``BS, Computer Engineering`` <br />
 [`AMA University`](https://oed.com.ph/academic-programs/bachelors-degree/bachelor-of-science-in-computer-engineering/) <br />
 ``04/2023 - Present`` <br />
