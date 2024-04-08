@@ -4,7 +4,9 @@
 
 ### PROJECT
 #
-``Hardware`` | ``C`` | ``HW-BlinkingLED`` |[`View`](https://github.com/kentlouisetonino/hw-blinking-LED) <br />
+``Hardware`` | ``HW-BlinkingLED`` |[`View`](https://github.com/kentlouisetonino/hw-blinking-LED) <br />
+
+
 ``Software`` | ``Go`` | ``BaseShift`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 ``Software`` | ``Go`` | ``TempScale`` | [`View`](https://github.com/kentlouisetonino/tempscale) <br />
 ``Software`` | ``Node.js`` | ``Node-Integration`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
