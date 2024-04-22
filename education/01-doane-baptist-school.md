@@ -2,8 +2,8 @@
 #
 
 `School Name` | `Doane Baptist School` <br />
-`Address` | `Isabel, Leyte, Philippines 6539` <br />
-`School Year` | `06/2009 - 03/2013` <br />
+`School Address` | `Isabel, Leyte, Philippines` <br />
+`Date Attended` | `06/2009 - 03/2013` <br />
 
 <br />
 
