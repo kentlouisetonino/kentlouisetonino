@@ -1,4 +1,4 @@
-### School Information
+### University Information
 #
 
 `University Name` | `AMA University` <br />
