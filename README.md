@@ -13,12 +13,6 @@
 
 ### EDUCATION
 #
-``BS, Computer Engineering`` <br />
-[`AMA University`](https://oed.com.ph/academic-programs/bachelors-degree/bachelor-of-science-in-computer-engineering/) <br />
-``Quezon City, Metro Manila, Philippines`` <br />
-``04/2023 - Present`` <br />
+``BS, Computer Engineering`` | [`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-ama-university.md) | ``04/2023 - Present`` <br />
 
-``Secondary School`` <br />
-[`Doane Baptist School`](https://drive.google.com/file/d/1-RjQ7ug_pgxH-k9-z3arDKfdoH6eFH7I/view?usp=sharing) <br />
-``Isabel, Leyte, Philippines`` <br />
-``06/2009 - 03/2013``
+``Secondary School`` | [`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-doane-baptist-school.md) | ``06/2009 - 03/2013``
