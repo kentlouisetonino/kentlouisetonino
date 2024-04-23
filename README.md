@@ -1,4 +1,4 @@
-[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino)
+[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Certification`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/certification)
 
 <br />
 
@@ -8,13 +8,6 @@
 ``Software`` | ``Go`` | ``BaseShift`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 ``Software`` | ``Go`` | ``TempScale`` | [`View`](https://github.com/kentlouisetonino/tempscale) <br />
 ``Software`` | ``Node.js`` | ``Node-Integration`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
-
-<br />
-
-### CERTIFICATION
-#
-
-``Computing Courses`` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing-courses.md)
 
 <br />
 
