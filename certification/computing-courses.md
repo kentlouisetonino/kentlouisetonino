@@ -1,7 +1,7 @@
 ### Description
 #
 
-> - Below are the `Computing` certificates of the courses I've studied online.
+> - Below are the certificates of the `computing` courses I've studied online.
 
 <br />
 
