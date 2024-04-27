@@ -7,6 +7,7 @@
 ``Hardware`` | ``HW-BlinkingLED`` |[`View`](https://github.com/kentlouisetonino/hw-blinking-LED) <br />
 ``Software`` | ``Go`` | ``BaseShift`` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 ``Software`` | ``Go`` | ``TempScale`` | [`View`](https://github.com/kentlouisetonino/tempscale) <br />
+``Software`` | ``Go`` | ``Go-Integration`` | [`View`](https://github.com/kentlouisetonino/go-integration) <br />
 ``Software`` | ``Node.js`` | ``Node-Integration`` | [`View`](https://github.com/kentlouisetonino/node-backend) <br />
 ``Software`` | ``Node.js`` | ``Node-Nest`` | [`View`](https://github.com/kentlouisetonino/node-nest) <br />
 
