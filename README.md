@@ -1,4 +1,6 @@
-[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) | [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) | [`Certification`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/certification)
+`Account` | [`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) - [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) <br />
+`Certification` | [`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/certification) <br />
+`Project` | [`Software`]() - [`Hardware`]()
 
 <br />
 
