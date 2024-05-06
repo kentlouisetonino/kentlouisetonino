@@ -1,7 +1,7 @@
 
 `Account`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) - [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) <br />
 `Certification`&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing.md) <br />
-`Project`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Software`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/hardware.md) - [`Hardware`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/hardware.md)
+`Project`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Software`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/software.md) - [`Hardware`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/hardware.md)
 
 <br />
 
