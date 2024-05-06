@@ -1,6 +1,7 @@
-`Account` | [`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) - [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) <br />
-`Certification` | [`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing.md) <br />
-`Project` | [`Software`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/software.md) - [`Hardware`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/hardware.md)
+
+`Account`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) - [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) <br />
+`Certification`&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing.md) <br />
+`Project`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/hardware.md) - [`Engineering`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/project/hardware.md)
 
 <br />
 
