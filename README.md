@@ -1,5 +1,5 @@
 `Account` | [`Linkedin`](https://www.linkedin.com/in/kentlouisetonino) - [`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) <br />
-`Certification` | [`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/certification) <br />
+`Certification` | [`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing.md) <br />
 `Project` | [`Software`]() - [`Hardware`]()
 
 <br />
