@@ -5,7 +5,7 @@
 
 <br />
 
-### ${\color{green} \textnormal{EDUCATION}}$
+### EDUCATION
 #
 ``BS, Computer Engineering`` <br />
 [`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-ama-university-oed.md) <br />
