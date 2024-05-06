@@ -5,7 +5,7 @@
 ### EDUCATION
 #
 ``BS, Computer Engineering`` <br /> 
-[`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-ama-university.md) <br />
+[`AMA University OED`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-ama-university.md) <br />
 ``04/2023 - Present`` <br />
 
 ``Secondary School`` <br />
