@@ -8,6 +8,6 @@
 # 
 
 ``Hardware`` | ``HW-BlinkingLED`` |[`View`](https://github.com/kentlouisetonino/hw-blinking-LED) <br />
-`Software` | `BusCalculator` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
-`Software` | `BaseShift` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 `Software` | `TempScale` | [`View`](https://github.com/kentlouisetonino/tempscale) <br />
+`Software` | `BaseShift` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
+`Software` | `BusCalculator` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
