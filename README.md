@@ -8,7 +8,7 @@
 ### EDUCATION
 #
 ``BS, Computer Engineering`` <br />
-[`AMA University OED`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-ama-university-oed.md) <br />
+[`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-ama-university-oed.md) <br />
 ``04/2023 - Present`` <br />
 
 ``200 Units, Engineering`` <br />
