@@ -1,6 +1,12 @@
 ### University Information
 #
 
+<br />
+
+`Link` | [`Official`](https://www.vsu.edu.ph/academe/satellite-campuses/isabel)&nbsp;[`Facebook`](https://www.facebook.com/visayasstateu.isabel/)&nbsp;[`Linkedin`](https://www.linkedin.com/company/visayas-state-university-isabel/)
+
+<br />
+
 `Program` | `Completed 200 Units, Industrial Engineering` <br />
 `University Name` | `Visaysa State University - Isabel` <br />
 `University Address` | `Isabel, Leyte, Philippines` <br />
