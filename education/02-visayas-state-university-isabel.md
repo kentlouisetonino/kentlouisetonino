@@ -5,7 +5,7 @@
 `University Name` | `Visaysa State University - Isabel` <br />
 `University Address` | `Isabel, Leyte, Philippines` <br />
 `Study Setup` | `On-Site` <br />
-`Status` | `College Dropout` <br />
+`Status` | `Dropout` <br />
 `Date Attended` | `06/2013 - 07/2018` <br />
 
 <br />
