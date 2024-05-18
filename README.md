@@ -1,6 +1,6 @@
 
-`LinkedIn` | [`View`](https://www.linkedin.com/in/kentlouisetonino) <br />
-`Snapcrat` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
+`Linkedin` | [`View`](https://www.linkedin.com/in/kentlouisetonino) <br />
+`Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
 `Computing Certification` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing.md) <br />
 
 <br />
