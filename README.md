@@ -20,8 +20,8 @@
 ### EDUCATION 
 # 
 
-`BS, Computer Engineering` <br />
-[`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-ama-university-oed.md) <br />
+`200 Units, Engineering` <br />
+[`Visayas State University - Isabel`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-visayas-state-university-isabel.md) <br />
 `04/2023 - Present`
 
 `Secondary School` <br />
