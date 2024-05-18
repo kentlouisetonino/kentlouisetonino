@@ -23,7 +23,7 @@
 
 `200 Units, Engineering` <br />
 [`Visayas State University - Isabel`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-visayas-state-university-isabel.md) <br />
-`04/2023 - Present`
+`06/2013 - 07/2018`
 
 `Secondary School` <br />
 [`Doane Baptist School - Isabel`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-doane-baptist-school-isabel.md) <br />
