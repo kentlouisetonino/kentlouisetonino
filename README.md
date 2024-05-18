@@ -1,6 +1,7 @@
 
-`Account`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Linkedin`](https://www.linkedin.com/in/kentlouisetonino)&nbsp;[`Snapcraft`](https://snapcraft.io/publisher/kentlouisetonino) <br />
-`Certification`&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[`Computing`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing.md) <br />
+`LinkedIn` | [`View`](https://www.linkedin.com/in/kentlouisetonino) <br />
+`Snapcrat` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
+`Computing Certification` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/computing.md) <br />
 
 <br />
 
