@@ -15,16 +15,3 @@
 `Software` | `BaseShift` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 `Software` | `TempScale` | [`View`](https://github.com/kentlouisetonino/tempscale) <br />
 `Software` | `BusCalculator` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
-
-<br />
-
-### EDUCATION 
-# 
-
-`200 Units, Engineering` <br />
-[`Visayas State University - Isabel`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-visayas-state-university-isabel.md) <br />
-`06/2013 - 07/2018`
-
-`Secondary School` <br />
-[`Doane Baptist School - Isabel`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-doane-baptist-school-isabel.md) <br />
-`06/2009 - 03/2013`
