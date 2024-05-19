@@ -20,5 +20,5 @@
 ### EDUCATION 
 # 
 
-`BS, Computer Engineering` | [`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-ama-university-oed.md) | `03/2023 - Present` <br />
+`BS, Computer Engineering` | [`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-ama-university-oed.md) | `04/2023 - Present` <br />
 `High School` | [`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-doane-baptist-school-isabel.md) | `06/2009 - 03/2013`  <br /> 
