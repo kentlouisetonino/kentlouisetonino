@@ -21,5 +21,12 @@
 ### EDUCATION 
 # 
 
-`200 Units, Engineering` | [`Visayas State University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-visayas-state-university-isabel.md) | `06/2013 - 07/2018` <br />
-`High School` | [`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-doane-baptist-school-isabel.md) | `06/2009 - 03/2013`
+`200 Units, Engineering` <br /> 
+[`Visayas State University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-visayas-state-university-isabel.md) <br /> 
+`Isabel, Leyte, Philippines` <br /> 
+`06/2013 - 07/2018` <br />
+
+`High School` <br /> 
+[`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-doane-baptist-school-isabel.md) <br /> 
+`Isabel, Leyte, Philippines` <br /> 
+`06/2009 - 03/2013`
