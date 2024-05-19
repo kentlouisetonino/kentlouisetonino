@@ -21,11 +21,6 @@
 ### EDUCATION 
 # 
 
-`BS, Computer Engineering` <br /> 
-[`AMA University`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-ama-university-oed.md) <br /> 
-`Quezon City, Metro Manila, Philippines` <br /> 
-`04/2023 - Present` <br />
-
 `High School` <br /> 
 [`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-doane-baptist-school-isabel.md) <br /> 
 `Isabel, Leyte, Philippines` <br /> 
