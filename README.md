@@ -14,5 +14,3 @@
 `Software` | `BaseShift` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
 `Software` | `TempScale` | [`View`](https://github.com/kentlouisetonino/tempscale) <br />
 `Software` | `BusCalculator` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
-
-<br />
