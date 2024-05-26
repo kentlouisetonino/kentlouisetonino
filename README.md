@@ -11,9 +11,9 @@
 ### PROJECT 
 # 
 
-``Hardware`` | [`HW-BlinkingLED`](https://github.com/kentlouisetonino/hw-blinking-LED) <br />
-`Software` | [`Go-Integration`](https://github.com/kentlouisetonino/go-integration) <br />
-`Software` | [`BaseShift`](https://github.com/kentlouisetonino/baseshift) <br />
-`Software` | [`TempScale`](https://github.com/kentlouisetonino/tempscale) <br />
-`Software` | [`BusCalculator`](https://github.com/kentlouisetonino/bus-calculator) <br />
+``Hardware`` | `HW-BlinkingLED` | [`View`](https://github.com/kentlouisetonino/hw-blinking-LED) <br />
+`Software` | `Go-Integration` | [`View`](https://github.com/kentlouisetonino/go-integration) <br />
+`Software` | `BaseShift` | [`View`](https://github.com/kentlouisetonino/baseshift) <br />
+`Software` | `TempScale` | [`View`](https://github.com/kentlouisetonino/tempscale) <br />
+`Software` | `BusCalculator` | [`View`](https://github.com/kentlouisetonino/bus-calculator) <br />
 
