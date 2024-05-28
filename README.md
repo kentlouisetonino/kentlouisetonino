@@ -25,5 +25,5 @@
 `04/2023 - Present` <br />
 
 `Secondary` <br />
-[`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md) <br />
+[`Doane Baptist School - Isabel`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md) <br />
 `06/2009 - 03/2013`
