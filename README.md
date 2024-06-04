@@ -20,4 +20,4 @@
 ### EDUCATION
 # 
 
-`Secondary` | [`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md) | `06/2009 - 03/2013`
+`High School` | [`Doane Baptist School`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md) | `06/2009 - 03/2013`
