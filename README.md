@@ -3,4 +3,14 @@
 `Linkedin` | [`View`](https://www.linkedin.com/in/kentlouisetonino) <br />
 `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
 `Certification-Computing` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
-`Education` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education) <br />
+`Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects) <br />
+`Software-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/software-projects) <br />
+
+
+<br />
+
+### EDUCATION
+# 
+
+`BS, Computer Engineering` | `04/2023 - Present` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-BS-Computer-Engineering.md) <br />
+`High School` | `06/2009 - 03/2013` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
