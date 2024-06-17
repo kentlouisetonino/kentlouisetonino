@@ -10,7 +10,7 @@
 `Program` | `Completed 200 Units, Industrial Engineering` <br />
 `University Name` | `Visayas State University - Isabel` <br />
 `University Address` | `Isabel, Leyte, Philippines` <br />
-`Study Setup` | `On-Site` <br />
+`Study Setup` | `On-Campus` <br />
 `Study Status` | `Dropout` <br />
 `Date Attended` | `06/2013 - 07/2018` <br />
 
