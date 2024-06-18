@@ -1,3 +1,5 @@
+<br />
+
 $\color{yellow}{\textnormal{Hello, \ I'm \ Kent. \ I \ like \ Go, \ C, \ Linux, \ and \ Embedded System.}}$
 #
 
@@ -7,6 +9,7 @@ $\color{yellow}{\textnormal{Hello, \ I'm \ Kent. \ I \ like \ Go, \ C, \ Linux, 
 - `Software-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/software-projects) <br />
 
 
+<br />
 <br />
 
 $\color{white}{\textnormal{Education}}$
