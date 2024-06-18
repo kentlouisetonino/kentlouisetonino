@@ -8,7 +8,7 @@ $\color{yellow}{\textnormal{Hello, \ I'm \ Kent. \ I \ like \ Go, \ Node.js, \ B
 
 <br />
 
-$\color{yellow}{\textnormal{Education}}$
+$\color{white}{\textnormal{Education}}$
 # 
 
 `High School` | `06/2009 - 03/2013` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
