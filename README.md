@@ -1,4 +1,4 @@
-$\color{yellow}{\textnormal{Hello, \ I'm \ Kent. \ I \ like \ Go, \ Node.js, \ Backend, \ GCP, \ CLI, \ C, \ Linux, \ and \ Embedded System.}}$
+$\color{yellow}{\textnormal{Hello, \ I'm \ Kent. \ I \ like \ Go, \ Node.js, \ C, \ Linux, \ and \ Embedded System.}}$
 #
 
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
