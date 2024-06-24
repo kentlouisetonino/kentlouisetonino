@@ -9,7 +9,7 @@
 <br />
 <br />
 
-$\textnormal{\color{green}{Education}}$
+$\textnormal{EDUCATION}$
 #
 
 - `High School` | `06/2009 - 03/2013` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
