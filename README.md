@@ -1,6 +1,6 @@
 <br />
 
-$\color{greenyellow}{\textnormal{Hello, \ I'm \ Kent. \ I \ like \ Go, \ C, \ Linux, \ and \ Embedded \ System.}}$
+$\color{greenyellow}{\textnormal{Go | C | Linux | Embedded \ System}}$
 #
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
 - `Certification-Computing` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
