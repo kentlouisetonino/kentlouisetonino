@@ -15,5 +15,6 @@
 `Education`
 #
 
+- `BS, Computer Engineering` | `04/2023 - Present` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/03-BS-Computer-Engineering.md)
 - `200 Units, Engineering` | `06/2013 - 07/2018` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-200-Units-Engineering-Dropout.md)
 - `High School` | `06/2009 - 03/2013` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
