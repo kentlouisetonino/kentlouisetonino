@@ -3,10 +3,10 @@
 `Interest` | _`Go`_ _`Backend`_ _`CLI`_ _`C`_ _`Linux`_ _`Embedded System`_
 #
 
-- `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
-- `Certification-Computing` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
-- `Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects) <br />
-- `Computing-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/computing-projects) <br />
+- _`Snapcraft`_ | [_`View`_](https://snapcraft.io/publisher/kentlouisetonino) <br />
+- _`Certification-Computing`_ | [_`View`_](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
+- _`Hardware-Projects`_ | [_`View`_](https://github.com/stars/kentlouisetonino/lists/hardware-projects) <br />
+- _`Computing-Projects`_ | [_`View`_](https://github.com/stars/kentlouisetonino/lists/computing-projects) <br />
 
 
 <br />
@@ -15,4 +15,4 @@
 `Education`
 #
 
-- `High School` | `06/2009 - 03/2013` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
+- _`High School`_ | _`06/2009 - 03/2013`_ | [_`View`_](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
