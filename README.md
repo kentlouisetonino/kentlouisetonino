@@ -1,6 +1,6 @@
 <br />
 
-`Interest` | `Go` `Backend` `CLI` `C` `Linux` `Embedded System`
+`Interest` | _`Go`_ _`Backend`_ _`CLI`_ _`C`_ _`Linux`_ _`Embedded System`_
 #
 
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
