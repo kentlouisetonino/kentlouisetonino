@@ -1,6 +1,6 @@
 <br />
 
-`Hello, I'm Kent. I make CLI tools and tinker with Go, C, Linux, and Embedded System.`
+`Go` | `Backend` | `CLI` | `C` | `Linux` | `Embedded System`
 #
 
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
