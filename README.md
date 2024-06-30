@@ -1,8 +1,3 @@
-<br />
-
-`Interest` |  _`C`_ _`CLI`_ _`Linux`_ _`Embedded System`_
-#
-
 - _`Snapcraft`_ | [_`View`_](https://snapcraft.io/publisher/kentlouisetonino) <br />
 - _`Certification-Computing`_ | [_`View`_](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
 - _`Hardware-Projects`_ | [_`View`_](https://github.com/stars/kentlouisetonino/lists/hardware-projects) <br />
