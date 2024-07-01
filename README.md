@@ -14,4 +14,5 @@
 `Education`
 #
 
+- _`BS, Computer Engineering`_ | _`04/2023 - Present`_ | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-BS-Computer-Engineering.md) 
 - _`High School`_ | _`06/2009 - 03/2013`_ | [_`View`_](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
