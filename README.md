@@ -1,6 +1,6 @@
 <br />
 
-`Learning-Interest` | `Go` `Backend` `CLI` `C` `Assembly` `Linux` `Embedded System`
+$\textnormal{\color{limegreen} Hello, \ I'm \ Kent \ from \ the \ Philippines.}$
 #
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
 - `Certification-Computing` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
