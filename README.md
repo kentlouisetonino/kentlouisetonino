@@ -1,6 +1,6 @@
 <br />
 
-`Learning-Interest` | `Go` `Backend` `CLI` `C` `Assembly` `Linux Kernel` `Embedded System`
+`Learning-Interest` | `Go` `Backend` `CLI` `C` `Assembly` `Linux` `Embedded System`
 #
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
 - `Certification-Computing` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
