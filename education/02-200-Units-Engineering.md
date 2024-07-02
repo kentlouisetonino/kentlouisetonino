@@ -11,7 +11,7 @@
 `University Name` | `Visayas State University - Isabel` <br />
 `University Address` | `Isabel, Leyte, Philippines` <br />
 `Study Setup` | `On-Campus` <br />
-`Study Status` | `Dropout (Lacking Thesis)` <br />
+`Study Status` | `Dropout (Incomplete Thesis)` <br />
 `Date Attended` | `06/2013 - 07/2018` <br />
 
 <br />
