@@ -1,7 +1,7 @@
 <br />
 
 $$
-\displaystyle {Learning} \ \rightarrow \ {Tinkering} \ \rightarrow \ {Making}
+\displaystyle \textnormal{\color{limegreen}Learning} \ \rightarrow \ \textnormal{\color{limegreen}Tinkering} \ \rightarrow \ \textnormal{\color{limegreen}Making}
 $$
 #
 
