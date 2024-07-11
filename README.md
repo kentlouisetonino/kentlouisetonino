@@ -1,6 +1,8 @@
 <br />
 
-_`Learning | Tinkering | Making`_
+$$
+\displaystyle {Learning} \ \rightarrow \ {Tinkering} \ \rightarrow \ {Making}
+$$
 #
 
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
