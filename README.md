@@ -1,8 +1,6 @@
 <br />
 
-$$
-\displaystyle \textnormal{\color{limegreen}Learning} \ \rightarrow \ \textnormal{\color{limegreen}Tinkering} \ \rightarrow \ \textnormal{\color{limegreen}Making}
-$$
+`Learning - Tinkering - Making`
 #
 
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
