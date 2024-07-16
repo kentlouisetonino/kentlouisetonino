@@ -1,6 +1,6 @@
 <br />
 
-`Interest` | `CLI` `C` `Linux` `Embedded System`
+`Learning Interest` | `CLI` `C` `Linux` `Embedded System`
 #
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
 - `Certification-Computing` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
