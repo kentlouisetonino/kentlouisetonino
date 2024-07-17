@@ -2,6 +2,7 @@
 
 $\textnormal{I'm Kent. A Computer Engineering student from Philippines}$ 🇵🇭. <br />
 $\textnormal{My learning interests, which I am passionately curious about, are:}$ <br />
+$\textnormal{{\color{green}CLI Development}, {\color{green}C Language}, {\color{green}Assembly Language}, {\color{green}Device Driver},}$ <br />
 $\textnormal{{\color{green}Linux}, {\color{green}Embedded System}, {\color{green}FPGA}, {\color{green}Circuit Design}, and {\color{green}Physics}.}$
 
 $\textnormal{I separated my career and passion. Because passion doesn't pay the}$ <br />
