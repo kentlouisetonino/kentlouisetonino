@@ -1,8 +1,12 @@
 <br />
 
-$\textnormal{Hello, I'm Kent. A Computer Engineering student from Philippines}$ 🇵🇭. <br />
-$\textnormal{My learning interest are {\color{green}CLI Development}, {\color{green}C}, {\color{green}Assembly}, {\color{green}Device Driver},}$ <br />
-$\textnormal{{\color{green}Linux}, {\color{green}Embedded System}, {\color{green}FPGA}, {\color{green}Circuit Design}, and {\color{green}Physics}.}$
+$\textnormal{I'm Kent. A Computer Engineering student from Philippines}$ 🇵🇭. <br />
+$\textnormal{My learning interests, which I am passionately curious about, are:}$ <br />
+$\textnormal{{\color{green}CLI Development}, {\color{green}C}, {\color{green}Assembly}, {\color{green}Device Driver Development}, {\color{green}Linux}}$ <br />
+$\textnormal{{\color{green}Embedded System}, {\color{green}FPGA}, {\color{green}Circuit Design}, and {\color{green}Physics}.}$
+
+$\textnormal{I separated my passion and curiosity. Because passion doesn't pay the bills.}$ <br />
+$\textnormal{My career specialty are {\color{green}Golang}, {\color{green}Backend}, and {\color{green} GCP Cloud Computing}.}$
 
 #
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
