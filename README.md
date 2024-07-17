@@ -2,7 +2,7 @@
 
 $\textnormal{Hello, I'm Kent. A Computer Engineering student from Philippines}$ 🇵🇭. <br />
 $\textnormal{My learning interest are {\color{green}CLI Development}, {\color{green}C}, {\color{green}Assembly}, {\color{green}Device Driver},}$ <br />
-$\textnormal{{\color{green}Linux}, {\color{green}Embedded System}, {\color{green}FPGA}, and {\color{green}Circuit Design}.}$
+$\textnormal{{\color{green}Linux}, {\color{green}Embedded System}, {\color{green}FPGA}, {\color{green}Circuit Design}, and {\color{green}Physics}.}$
 
 #
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
