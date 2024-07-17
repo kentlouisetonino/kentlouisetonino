@@ -3,7 +3,7 @@
 $\textnormal{I'm Kent. A Computer Engineering student from Philippines}$ 🇵🇭. <br />
 $\textnormal{My learning interests, which I am passionately curious about, are:}$ <br />
 $\textnormal{{\color{green}CLI Development}, {\color{green}C}, {\color{green}Assembly}, {\color{green}Device Driver}, {\color{green}Embedded System},}$ <br />
-$\textnormal{{\color{green}Linux Kernel}, {\color{green}FPGA}, {\color{green}Circuit Design}, and {\color{green}Physics}.}$
+$\textnormal{{\color{green}Linux}, {\color{green}FPGA}, {\color{green}Circuit Design}, and {\color{green}Physics}.}$
 
 $\textnormal{I separated my career and passion. Because passion doesn't pay the}$ <br />
 $\textnormal{bills. My career specialty are {\color{green}Golang}, {\color{green}Node.js}, {\color{green}Backend Development},}$ <br />
