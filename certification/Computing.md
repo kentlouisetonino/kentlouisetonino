@@ -11,8 +11,5 @@
 `09/17/2021` | `Sololearn - SQL` | [`View`](https://www.sololearn.com/en/certificates/CT-OYPTHJVE) <br />
 `08/01/2021` | `Sololearn - React + Redux` | [`View`](https://www.sololearn.com/en/certificates/CT-BDZB6GLV) <br />
 `07/23/2021` | `Sololearn - PHP` | [`View`](https://www.sololearn.com/certificates/CT-K6KUNZPR) <br />
-`04/13/2021` | `Sololearn - Responsive Web Design` | [`View`](https://www.sololearn.com/certificates/CT-7IGP6UKW) <br />
 `04/11/2021` | `Sololearn - JQuery` | [`View`](https://www.sololearn.com/certificates/CT-DUI5SMHW) <br />
 `04/05/2021` | `Sololearn - JavaScript` | [`View`](https://www.sololearn.com/certificates/CT-TGX5B996) <br />
-`03/11/2021` | `Sololearn - CSS` | [`View`](https://www.sololearn.com/certificates/CT-OZUWDTZB) <br />
-`02/23/2021` | `Sololearn - HTML` | [`View`](https://www.sololearn.com/certificates/CT-MKBL8ITD)
