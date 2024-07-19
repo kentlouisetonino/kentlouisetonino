@@ -1,6 +1,6 @@
 <br />
 
-$\textnormal{Hello, I'm {\color{limegreen}Kent}. A Computer Engineering student from Philippines}$ 🇵🇭.
+`Hello, I'm a Computer Engineering student from Philippines.`
 #
 
 - `Snapcraft` | [`View`](https://snapcraft.io/publisher/kentlouisetonino) <br />
