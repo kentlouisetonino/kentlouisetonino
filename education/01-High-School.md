@@ -14,6 +14,8 @@
 
 <br />
 
-![High School Diploma](./image-diploma-secondary-school.jpg)
+| High School Diploma |
+| ------------------- |
+| ![High School Diploma](https://github.com/user-attachments/assets/22d9eb56-f67a-4e8c-9c66-678b489ec176) |
 
 <br />
