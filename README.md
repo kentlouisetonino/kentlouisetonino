@@ -13,5 +13,5 @@
 #
 
 - `BS, Computer Engineering` | [`04/2023 - Present`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/02-BS-Computer-Engineering.md)
-- `Drinking & Soul Searching` | `04/2013 - 03/2023`
+- `Drinking & Existential Crisis` | `04/2013 - 03/2023`
 - `High School` | [`06/2009 - 03/2013`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
