@@ -1,7 +1,7 @@
 <br />
 
 - `Computing-Certifications` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computing.md) <br />
-- `Engineering-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/engineering-projects) <br />
+- `Computer-Engineering-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/engineering-projects) <br />
 
 
 <br />
