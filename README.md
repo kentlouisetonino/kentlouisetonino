@@ -1,7 +1,7 @@
 <br />
 
 - `Electrical-Engineering-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Electrical-Engineering.md) <br />
-- `Computer-Science-Coureses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computer-Science.md) <br />
+- `Computer-Science-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computer-Science.md) <br />
 - `Personal-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/engineering-projects) <br />
 
 
