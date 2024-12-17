@@ -1,7 +1,7 @@
 <br />
 
 - `Hardware-Engineering-Certifications` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Hardware-Engineering.md) <br />
-- `Computer-Science-Certifications` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Computer-Science.md) <br />
+- `Software-Engineering-Certifications` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certification/Software-Engineering.md) <br />
 - `Personal-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/engineering-projects) <br />
 
 
