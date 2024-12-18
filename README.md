@@ -1,7 +1,7 @@
 <br />
 
-- `Hardware-Engineering-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/courses/Hardware-Engineering.md) <br />
-- `Software-Engineering-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/courses/Software-Engineering.md) <br />
+- `Computing-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/courses/Computing.md) <br />
+- `Engineering-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/courses/Engineering.md) <br />
 - `Personal-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/engineering-projects) <br />
 
 
