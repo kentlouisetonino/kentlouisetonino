@@ -1,7 +1,7 @@
 <br />
 
-- `Computing-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/courses/Computing.md) <br />
-- `Engineering-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/courses/Engineering.md) <br />
+- `Computing-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certificate/Computing.md) <br />
+- `Engineering-Courses` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/certificate/Engineering.md) <br />
 - `Personal-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/engineering-projects) <br />
 
 
