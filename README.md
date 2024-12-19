@@ -1,6 +1,6 @@
 <br />
 
-- `Personal-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/engineering-projects) <br />
+- `Personal-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/computer-engineering-projects) <br />
 
 <br />
 
