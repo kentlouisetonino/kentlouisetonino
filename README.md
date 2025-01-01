@@ -1,7 +1,7 @@
 <br />
 
-- `Personal-Gists` | [`View`](https://gist.github.com/kentlouisetonino) <br />
-- `Personal-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/computer-engineering-projects) <br />
+- `Gists` | [`View`](https://gist.github.com/kentlouisetonino) <br />
+- `Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/computer-engineering-projects) <br />
 
 <br />
 
