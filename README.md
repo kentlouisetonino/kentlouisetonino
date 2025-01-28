@@ -4,7 +4,7 @@
 
 <br />
 
-### `Education`
+`EDUCATION`
 #
 
 
