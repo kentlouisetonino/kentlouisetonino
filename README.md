@@ -7,6 +7,16 @@
 
 - `High School` | [`06/2009 - 03/2013`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/education/01-High-School.md)
 
+
+<br />
+<br />
+
+
+`PROJECT`
+#
+- `Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects)
+- `Software-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/software-projects)
+
 <br />
 <br />
 
@@ -18,12 +28,3 @@
 `SW` | `Sololearn - C Intermediate` | [`08/28/2023`](https://www.sololearn.com/en/certificates/CC-V81MRQU9) <br />
 `SW` | `Sololearn - Introduction to C` | [`07/06/2023`](https://www.sololearn.com/certificates/CC-6AGYI9YG) <br />
 
-
-<br />
-<br />
-
-
-`PROJECT`
-#
-- `Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects)
-- `Software-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/software-projects)
