@@ -1,5 +1,5 @@
 - `Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects)
 - `Software-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/software-projects)
-- `Snapcraft-Projects` | [`View`](https://snapcraft.io/publisher/nihilistictinkerer)
+- `Snapcraft-Apps` | [`View`](https://snapcraft.io/publisher/nihilistictinkerer)
 - `Certificates` | [`View`](./certificate/certificate.md)
 - `Diplomas` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/diploma/education.md)
