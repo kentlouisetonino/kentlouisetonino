@@ -1,4 +1,4 @@
-### School Information
+### High School
 #
 
 <br />
